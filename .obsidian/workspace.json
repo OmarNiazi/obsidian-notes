@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d3b24c7fdfbb66df",
+        "id": "ec6114cbbe31228f",
         "type": "tabs",
         "children": [
           {
-            "id": "0bfb70cc00a5acae",
+            "id": "db8fd74ec7267d97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Data Structures/DATA STRUCTURES.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DATA STRUCTURES"
+              "title": "New tab"
             }
           }
         ]
@@ -169,8 +164,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -206,23 +201,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "0bfb70cc00a5acae",
+  "active": "db8fd74ec7267d97",
   "lastOpenFiles": [
+    "Books/Discrete/Connecting_Discrete_Mathematics_With_CS.pdf",
+    "Notes/Data Structures/DATA STRUCTURES.md",
+    "Books/Mathematics/Larson book  8th Ed Multivariable Calculus Textbook.pdf",
+    "Books/Mathematics/ThomasCalculus_SolutionsManual_13thEdition.pdf",
+    "Books/Mathematics/George B. Thomas Jr., Maurice D. Weir, Joel R. Hass-Thomas' Calculus_ Early Transcendentals (13th Edition)-Pearson.pdf",
     "Books/Physics/Fundamentals of Physics- 10th Edition by Halliday Resnick Walker.pdf",
     "Books/Physics/Fundamentals of Physics, 10th Edition Solution Manual (David Halliday, Robert Resnick, Jearl Walker) (z-lib.org).pdf",
-    "Books/Mathematics/ThomasCalculus_SolutionsManual_13thEdition.pdf",
-    "Books/Mathematics/Larson book  8th Ed Multivariable Calculus Textbook.pdf",
-    "Books/Mathematics/George B. Thomas Jr., Maurice D. Weir, Joel R. Hass-Thomas' Calculus_ Early Transcendentals (13th Edition)-Pearson.pdf",
     "Books/DSA/Introduction_to_Algorithms_Third_Edition_(2009).pdf",
-    "Books/COAL/Kip_Irvine_Assembly_Language_for_x86_processors.pdf",
     "Books/Discrete/Discrete_Mathematics_with_Applications_5th_Edition_Susanna.pdf",
-    "Books/Discrete/Connecting_Discrete_Mathematics_With_CS.pdf",
-    "Books/Physics",
+    "Books/COAL/Kip_Irvine_Assembly_Language_for_x86_processors.pdf",
     "Books/Mathematics",
     "Notes/Discrete Structures/Set Theory/6.1 Set Notations.md",
     "Notes/Discrete Structures/Set Theory/6. Set Theory.md",
@@ -232,7 +225,6 @@
     "Notes/Discrete Structures/DISCRETE STRUCTURES.md",
     "Notes/Data Structures/Trees.md",
     "Notes/Data Structures/Linked Lists.md",
-    "Notes/Data Structures/DATA STRUCTURES.md",
     "Notes/Data Structures/Arrays.md",
     "Chain Of Thoughts.md",
     "Science/Computer Science/AI/AI-2.0-Convolutional Neural Networks.md",
