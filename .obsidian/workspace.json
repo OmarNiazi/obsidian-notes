@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory of Automata/_Table of Contents_.md",
+                "file": "Theory of Automata/_TOA-Table of Contents_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_Table of Contents_"
+              "title": "_TOA-Table of Contents_"
             }
           },
           {
@@ -50,13 +50,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory of Automata/_Table of Contents_.md",
+                "file": "Discrete Structures/_DISCRETE STRUCTURES_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_Table of Contents_"
+              "title": "_DISCRETE STRUCTURES_"
             }
           }
         ]
@@ -250,9 +250,10 @@
   },
   "active": "8183b04ec91c6033",
   "lastOpenFiles": [
+    "Theory of Automata/_TOA-Table of Contents_.md",
+    "Discrete Structures/_DISCRETE STRUCTURES_.md",
     "Books/Introduction To Computer Theory.pdf",
     "Theory of Automata/2.1 Theory of Formal Languages.md",
-    "Theory of Automata/_Table of Contents_.md",
     "Theory of Automata",
     "Untitled.md",
     "Books/Physics/Fundamentals of Physics, 10th Edition Solution Manual (David Halliday, Robert Resnick, Jearl Walker) (z-lib.org).pdf",
@@ -269,7 +270,6 @@
     "Discrete Structures/Functions/One-to-one, Onto, and Inverse Functions.md",
     "Discrete Structures/Functions/Functions.md",
     "Discrete Structures/Functions/Functions Defined on General Sets.md",
-    "Discrete Structures/DISCRETE STRUCTURES.md",
     "Data Structures/Trees.md",
     "Data Structures/Linked Lists.md",
     "Data Structures/Arrays.md",
