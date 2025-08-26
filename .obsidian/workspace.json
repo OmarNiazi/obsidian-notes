@@ -164,8 +164,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -202,22 +202,24 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7adb17c520de5016",
+  "active": "12ae8687aa7ee1d5",
   "lastOpenFiles": [
-    "Books/Discrete/Connecting_Discrete_Mathematics_With_CS.pdf",
-    "Data Structures/DATA STRUCTURES.md",
-    "Books/Mathematics/Larson book  8th Ed Multivariable Calculus Textbook.pdf",
-    "Books/Mathematics/ThomasCalculus_SolutionsManual_13thEdition.pdf",
-    "Books/Mathematics/George B. Thomas Jr., Maurice D. Weir, Joel R. Hass-Thomas' Calculus_ Early Transcendentals (13th Edition)-Pearson.pdf",
-    "Books/Physics/Fundamentals of Physics- 10th Edition by Halliday Resnick Walker.pdf",
+    "Untitled.md",
+    "Books/Introduction To Computer Theory.pdf",
     "Books/Physics/Fundamentals of Physics, 10th Edition Solution Manual (David Halliday, Robert Resnick, Jearl Walker) (z-lib.org).pdf",
-    "Books/DSA/Introduction_to_Algorithms_Third_Edition_(2009).pdf",
-    "Books/Discrete/Discrete_Mathematics_with_Applications_5th_Edition_Susanna.pdf",
-    "Books/COAL/Kip_Irvine_Assembly_Language_for_x86_processors.pdf",
-    "Books/Mathematics",
+    "Books/Physics/Fundamentals of Physics- 10th Edition by Halliday Resnick Walker.pdf",
+    "Books/Physics",
+    "Books/Mathematics/LA/Linear Algebra and Its Applications by David C. Lay, Steven R. Lay, Judi J. McDonald (z-lib.org).pdf",
+    "Books/Mathematics/LA/Instructor’s Solutions Manual Linear Algebra and Its Applications 5th Edition David C. Lay.pdf",
+    "Books/Mathematics/LA",
+    "Books/Mathematics/Calculus/ThomasCalculus_SolutionsManual_13thEdition.pdf",
+    "Books/Mathematics/Calculus/Larson book  8th Ed Multivariable Calculus Textbook.pdf",
+    "Books/Mathematics/Calculus/George B. Thomas Jr., Maurice D. Weir, Joel R. Hass-Thomas' Calculus_ Early Transcendentals (13th Edition)-Pearson.pdf",
+    "Data Structures/DATA STRUCTURES.md",
     "Discrete Structures/Set Theory/6.1 Set Notations.md",
     "Discrete Structures/Set Theory/6. Set Theory.md",
     "Discrete Structures/Functions/One-to-one, Onto, and Inverse Functions.md",
@@ -241,7 +243,6 @@
     "Untitled Kanban.md",
     "Science/Astronomy/Untitled Kanban.md",
     "Literature/Quotes.md",
-    "Literature/Myths and Legends/Orpheus and Eurydice.md",
     "Untitled.canvas",
     "The Grounded Study/Science/Untitled Diagram.svg",
     "Untitled Diagram 1.svg",
