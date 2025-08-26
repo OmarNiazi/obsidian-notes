@@ -74,9 +74,23 @@
               "icon": "lucide-file",
               "title": "2.1 Theory of Formal Languages"
             }
+          },
+          {
+            "id": "64ab655f99095577",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -234,12 +248,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffb3036638529bf6",
+  "active": "64ab655f99095577",
   "lastOpenFiles": [
-    "Theory of Automata/(MOC) - Automata Theory.md",
-    "Theory of Automata/-NOTATIONS.md",
     "conflict-files-obsidian-git.md",
     "Theory of Automata/2.1 Theory of Formal Languages.md",
+    "Theory of Automata/(MOC) - Automata Theory.md",
+    "Theory of Automata/-NOTATIONS.md",
     "Data Structures/Trees.md",
     "Data Structures/Arrays.md",
     "Data Structures/(MOC) - Data Structures.md",
