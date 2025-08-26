@@ -148,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bd5b8241380250a9",
@@ -255,13 +254,13 @@
   "lastOpenFiles": [
     "Linear Algebra/(MOS) - Linear Algebra.md",
     "Linear Algebra/1.3 Vector Equations.md",
+    "Theory of Automata/2.1 Theory of Formal Languages.md",
+    "Theory of Automata/-NOTATIONS.md",
+    "Theory of Automata/(MOC) - Automata Theory.md",
     "Discrete Structures/Set Theory/6.1 Set Notations.md",
     "Discrete Structures/Functions/One-to-one, Onto, and Inverse Functions.md",
     "Discrete Structures/Functions/Functions.md",
     "Discrete Structures/Functions/Functions Defined on General Sets.md",
-    "Theory of Automata/-NOTATIONS.md",
-    "Theory of Automata/(MOC) - Automata Theory.md",
-    "Theory of Automata/2.1 Theory of Formal Languages.md",
     "conflict-files-obsidian-git.md",
     "Data Structures/Trees.md",
     "Data Structures/Arrays.md",
