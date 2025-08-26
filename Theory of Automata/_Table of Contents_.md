@@ -6,3 +6,9 @@ Automata theory helps us understand:
 - The design of **compilers, interpreters, and programming languages**.
 - The **working of search engines, regex, AI models, and protocols**.
 ---
+
+| Chapter          | Topics                                                                               |
+| ---------------- | ------------------------------------------------------------------------------------ |
+| **1.Background** | Nothing major to note regarding the course outline. An interesting read nonetheless. |
+| **2.Languages**  |                                                                                      |
+|                  |                                                                                      |
