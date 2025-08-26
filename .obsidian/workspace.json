@@ -164,8 +164,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -202,14 +202,13 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "db8fd74ec7267d97",
+  "active": "7adb17c520de5016",
   "lastOpenFiles": [
     "Books/Discrete/Connecting_Discrete_Mathematics_With_CS.pdf",
-    "Notes/Data Structures/DATA STRUCTURES.md",
+    "Data Structures/DATA STRUCTURES.md",
     "Books/Mathematics/Larson book  8th Ed Multivariable Calculus Textbook.pdf",
     "Books/Mathematics/ThomasCalculus_SolutionsManual_13thEdition.pdf",
     "Books/Mathematics/George B. Thomas Jr., Maurice D. Weir, Joel R. Hass-Thomas' Calculus_ Early Transcendentals (13th Edition)-Pearson.pdf",
@@ -219,15 +218,15 @@
     "Books/Discrete/Discrete_Mathematics_with_Applications_5th_Edition_Susanna.pdf",
     "Books/COAL/Kip_Irvine_Assembly_Language_for_x86_processors.pdf",
     "Books/Mathematics",
-    "Notes/Discrete Structures/Set Theory/6.1 Set Notations.md",
-    "Notes/Discrete Structures/Set Theory/6. Set Theory.md",
-    "Notes/Discrete Structures/Functions/One-to-one, Onto, and Inverse Functions.md",
-    "Notes/Discrete Structures/Functions/Functions.md",
-    "Notes/Discrete Structures/Functions/Functions Defined on General Sets.md",
-    "Notes/Discrete Structures/DISCRETE STRUCTURES.md",
-    "Notes/Data Structures/Trees.md",
-    "Notes/Data Structures/Linked Lists.md",
-    "Notes/Data Structures/Arrays.md",
+    "Discrete Structures/Set Theory/6.1 Set Notations.md",
+    "Discrete Structures/Set Theory/6. Set Theory.md",
+    "Discrete Structures/Functions/One-to-one, Onto, and Inverse Functions.md",
+    "Discrete Structures/Functions/Functions.md",
+    "Discrete Structures/Functions/Functions Defined on General Sets.md",
+    "Discrete Structures/DISCRETE STRUCTURES.md",
+    "Data Structures/Trees.md",
+    "Data Structures/Linked Lists.md",
+    "Data Structures/Arrays.md",
     "Chain Of Thoughts.md",
     "Science/Computer Science/AI/AI-2.0-Convolutional Neural Networks.md",
     "Science/Computer Science/AI/AI-1.0-Neural Networks and Machine learning.md",
