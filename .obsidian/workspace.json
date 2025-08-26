@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory of Automata/-NOTATIONS.md",
+                "file": "Theory of Automata/(MOA) - Automata Theory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "-NOTATIONS"
+              "title": "(MOA) - Automata Theory"
             }
           }
         ],
@@ -211,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,8 +229,8 @@
   },
   "active": "2ae49c125b7102d5",
   "lastOpenFiles": [
-    "Theory of Automata/2.1 Theory of Formal Languages.md",
     "Theory of Automata/-NOTATIONS.md",
+    "Theory of Automata/2.1 Theory of Formal Languages.md",
     "Theory of Automata/(MOA) - Automata Theory.md",
     "Discrete Structures/(MOA) - Discrete Structures.md",
     "Books/Introduction To Computer Theory.pdf",

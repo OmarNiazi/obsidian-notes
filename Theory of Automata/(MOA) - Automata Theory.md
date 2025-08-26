@@ -12,4 +12,4 @@ Automata theory helps us understand:
 | ---------------- | ------------------------------------------------------------------------------------ |
 | **1.Background** | Nothing major to note regarding the course outline. An interesting read nonetheless. |
 | **2.Languages**  | [[2.1 Theory of Formal Languages]]                                                   |
-|                  |                                                                                      |
+| **MISC**         | [[-NOTATIONS]]                                                                       |
