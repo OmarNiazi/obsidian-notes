@@ -52,16 +52,31 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Theory of Automata/(MOC) - Automata Theory.md",
-                "bFile": "Theory of Automata/(MOC) - Automata Theory.md",
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: (MOC) - Automata Theory"
+              "title": "Diff: conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "ffb3036638529bf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory of Automata/2.1 Theory of Formal Languages.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1 Theory of Formal Languages"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -219,12 +234,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "395c2b229963e425",
+  "active": "ffb3036638529bf6",
   "lastOpenFiles": [
     "Theory of Automata/(MOC) - Automata Theory.md",
-    "Theory of Automata/2.1 Theory of Formal Languages.md",
     "Theory of Automata/-NOTATIONS.md",
     "conflict-files-obsidian-git.md",
+    "Theory of Automata/2.1 Theory of Formal Languages.md",
     "Data Structures/Trees.md",
     "Data Structures/Arrays.md",
     "Data Structures/(MOC) - Data Structures.md",
