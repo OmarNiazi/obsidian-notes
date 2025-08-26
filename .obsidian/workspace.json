@@ -79,14 +79,15 @@
             "id": "64ab655f99095577",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Discrete Structures/Set Theory/6.1 Set Notations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "6.1 Set Notations"
             }
           }
         ],
@@ -250,10 +251,13 @@
   },
   "active": "64ab655f99095577",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Theory of Automata/2.1 Theory of Formal Languages.md",
-    "Theory of Automata/(MOC) - Automata Theory.md",
+    "Discrete Structures/Functions/One-to-one, Onto, and Inverse Functions.md",
+    "Discrete Structures/Functions/Functions.md",
+    "Discrete Structures/Functions/Functions Defined on General Sets.md",
     "Theory of Automata/-NOTATIONS.md",
+    "Theory of Automata/(MOC) - Automata Theory.md",
+    "Theory of Automata/2.1 Theory of Formal Languages.md",
+    "conflict-files-obsidian-git.md",
     "Data Structures/Trees.md",
     "Data Structures/Arrays.md",
     "Data Structures/(MOC) - Data Structures.md",
@@ -262,10 +266,7 @@
     "Discrete Structures/Set Theory/6. Set Theory.md",
     "Discrete Structures/(MOC) - Discrete Structures.md",
     "Data Structures/DATA STRUCTURES.md",
-    "Discrete Structures/Functions/Functions.md",
     "Discrete Structures/DISCRETE STRUCTURES.md",
-    "Discrete Structures/Functions/One-to-one, Onto, and Inverse Functions.md",
-    "Discrete Structures/Functions/Functions Defined on General Sets.md",
     "Discrete Structures/Functions",
     "Discrete Structures/Set Theory/Untitled.md",
     "Discrete Structures/Discrete.md",
