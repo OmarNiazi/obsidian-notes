@@ -1,0 +1,5 @@
+
+| Notation         | Meaning |
+| ---------------- | ------- |
+| $\Sigma$ (Sigma) |         |
+|                  |         |
