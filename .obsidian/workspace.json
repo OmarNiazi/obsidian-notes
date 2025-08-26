@@ -16,8 +16,52 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "2188fdee261f6631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory of Automata/-NOTATIONS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "-NOTATIONS"
+            }
+          },
+          {
+            "id": "8c7d6906d533be1a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
+            "id": "395c2b229963e425",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Theory of Automata/(MOC) - Automata Theory.md",
+                "bFile": "Theory of Automata/(MOC) - Automata Theory.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: (MOC) - Automata Theory"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -175,13 +219,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a773d2aa4086fe96",
+  "active": "395c2b229963e425",
   "lastOpenFiles": [
-    "Discrete Structures/Set Theory/6.1 Set Notations.md",
+    "Theory of Automata/(MOC) - Automata Theory.md",
+    "Theory of Automata/2.1 Theory of Formal Languages.md",
+    "Theory of Automata/-NOTATIONS.md",
+    "conflict-files-obsidian-git.md",
     "Data Structures/Trees.md",
-    "Discrete Structures/Set Theory/6. Set Theory.md",
-    "Data Structures/DATA STRUCTURES.md",
     "Data Structures/Arrays.md",
+    "Data Structures/(MOC) - Data Structures.md",
+    "Data Structures/Linked Lists.md",
+    "Discrete Structures/Set Theory/6.1 Set Notations.md",
+    "Discrete Structures/Set Theory/6. Set Theory.md",
+    "Discrete Structures/(MOC) - Discrete Structures.md",
+    "Data Structures/DATA STRUCTURES.md",
     "Discrete Structures/Functions/Functions.md",
     "Discrete Structures/DISCRETE STRUCTURES.md",
     "Discrete Structures/Functions/One-to-one, Onto, and Inverse Functions.md",
@@ -191,7 +242,6 @@
     "Discrete Structures/Discrete.md",
     "Set Notation.md",
     "Discrete Structures/Set Theory",
-    "Data Structures/Linked Lists.md",
     "Civics",
     "Welcome.md",
     "Untitled.md",
