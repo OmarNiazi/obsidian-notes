@@ -1,111 +1,58 @@
 {
   "main": {
-    "id": "7c52488259a1f33f",
+    "id": "2282e786059d2808",
     "type": "split",
     "children": [
       {
-        "id": "399d658d370685da",
+        "id": "e3548a670dc0075a",
         "type": "tabs",
         "children": [
           {
-            "id": "a773d2aa4086fe96",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "2188fdee261f6631",
+            "id": "b26208cf30beb0cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory of Automata/-NOTATIONS.md",
+                "file": "Theory of Automata/(MOC) - Automata Theory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "-NOTATIONS"
+              "title": "(MOC) - Automata Theory"
             }
           },
           {
-            "id": "8c7d6906d533be1a",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "395c2b229963e425",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "ffb3036638529bf6",
+            "id": "2ae49c125b7102d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Theory of Automata/2.1 Theory of Formal Languages.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "2.1 Theory of Formal Languages"
             }
-          },
-          {
-            "id": "64ab655f99095577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/1.3 Vector Equations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "1.3 Vector Equations"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "76c70b6afa3ae881",
+    "id": "1bc7049d1d209b2f",
     "type": "split",
     "children": [
       {
-        "id": "0a9546e99cd1f325",
+        "id": "8822e85fd1461fa9",
         "type": "tabs",
         "children": [
           {
-            "id": "97ccc2f152106f18",
+            "id": "7adb17c520de5016",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -118,7 +65,7 @@
             }
           },
           {
-            "id": "3da011f3dfdb340e",
+            "id": "9865e682d2a9ebea",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -135,7 +82,7 @@
             }
           },
           {
-            "id": "317b00fcc213916b",
+            "id": "0cc7f2731f058fb8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -148,57 +95,48 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
-    "id": "bd5b8241380250a9",
+    "id": "9ff74f0d31edc521",
     "type": "split",
     "children": [
       {
-        "id": "fd5c19aab7cd6a9a",
+        "id": "371e316ae69ebf68",
         "type": "tabs",
         "children": [
           {
-            "id": "be45cca4d6da6f23",
+            "id": "1ee66af3cb611110",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "26f158f135183b94",
+            "id": "9ba1635c639316bc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Structures/Set Theory/Set Notations.md",
+                "file": "Science/Astronomy/Geodesic Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Set Notations"
+              "title": "Outgoing links from Geodesic Equations"
             }
           },
           {
-            "id": "930b330994114a31",
+            "id": "ce24617f706e980c",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -207,28 +145,47 @@
             }
           },
           {
-            "id": "f53c21044b588cf9",
+            "id": "f25bd75d5550b87c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Structures/Set Theory/Set Notations.md",
+                "file": "Science/Astronomy/Geodesic Equations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Set Notations"
+              "title": "Outline of Geodesic Equations"
             }
           },
           {
-            "id": "283bbd28cf2271a2",
+            "id": "cb1936487faf405b",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "backlink",
+              "state": {
+                "file": "Theory of Automata/2.1 Theory of Formal Languages.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2.1 Theory of Formal Languages"
+            }
+          },
+          {
+            "id": "ff19788b0a55e522",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -236,53 +193,66 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false
     }
   },
-  "active": "64ab655f99095577",
+  "active": "2ae49c125b7102d5",
   "lastOpenFiles": [
-    "Linear Algebra/(MOS) - Linear Algebra.md",
-    "Linear Algebra/1.3 Vector Equations.md",
-    "Discrete Structures/Set Theory/6.1 Set Notations.md",
-    "Discrete Structures/Functions/One-to-one, Onto, and Inverse Functions.md",
-    "Discrete Structures/Functions/Functions.md",
-    "Discrete Structures/Functions/Functions Defined on General Sets.md",
-    "Theory of Automata/-NOTATIONS.md",
-    "Theory of Automata/(MOC) - Automata Theory.md",
     "Theory of Automata/2.1 Theory of Formal Languages.md",
-    "conflict-files-obsidian-git.md",
-    "Data Structures/Trees.md",
-    "Data Structures/Arrays.md",
-    "Data Structures/(MOC) - Data Structures.md",
-    "Data Structures/Linked Lists.md",
-    "Discrete Structures/Set Theory/6. Set Theory.md",
-    "Discrete Structures/(MOC) - Discrete Structures.md",
-    "Data Structures/DATA STRUCTURES.md",
-    "Discrete Structures/DISCRETE STRUCTURES.md",
-    "Discrete Structures/Functions",
-    "Discrete Structures/Set Theory/Untitled.md",
-    "Discrete Structures/Discrete.md",
-    "Set Notation.md",
-    "Discrete Structures/Set Theory",
-    "Civics",
-    "Welcome.md",
-    "Untitled.md",
-    "Theory of Automata",
-    "C.O.A.L",
+    "Theory of Automata/(MOC) - Automata Theory.md",
+    "Linear Algebra/1.3 Vector Equations.md",
+    "Linear Algebra/(MOS) - Linear Algebra.md",
     "Linear Algebra",
-    "Data Structures",
-    "Discrete Structures"
+    "Books/Introduction To Computer Theory.pdf",
+    "Discrete Structures/(MOC) - Discrete Structures.md",
+    "Discrete Structures/Functions/One-to-one, Onto, and Inverse Functions.md",
+    "Discrete Structures/Functions/Functions Defined on General Sets.md",
+    "Discrete Structures/Functions/Functions.md",
+    "Data Structures/(MOC) - Data Structures.md",
+    "Theory of Automata/-NOTATIONS.md",
+    "Theory of Automata",
+    "Books/Physics/Fundamentals of Physics, 10th Edition Solution Manual (David Halliday, Robert Resnick, Jearl Walker) (z-lib.org).pdf",
+    "Books/Physics/Fundamentals of Physics- 10th Edition by Halliday Resnick Walker.pdf",
+    "Books/Physics",
+    "Books/Mathematics/LA/Linear Algebra and Its Applications by David C. Lay, Steven R. Lay, Judi J. McDonald (z-lib.org).pdf",
+    "Books/Mathematics/LA/Instructor’s Solutions Manual Linear Algebra and Its Applications 5th Edition David C. Lay.pdf",
+    "Books/Mathematics/LA",
+    "Books/Mathematics/Calculus/ThomasCalculus_SolutionsManual_13thEdition.pdf",
+    "Discrete Structures/Set Theory/6.1 Set Notations.md",
+    "Discrete Structures/Set Theory/6. Set Theory.md",
+    "Data Structures/Trees.md",
+    "Data Structures/Linked Lists.md",
+    "Data Structures/Arrays.md",
+    "Chain Of Thoughts.md",
+    "Science/Computer Science/AI/AI-2.0-Convolutional Neural Networks.md",
+    "Science/Computer Science/AI/AI-1.0-Neural Networks and Machine learning.md",
+    "Science/Computer Science/AI/AI-1.1-Neural Networks Expanded.md",
+    "Science/Astronomy/Astronomy Master List.md",
+    "Science/Computer Science/Data Structures/Omar's Notes - Binary Trees.md",
+    "Science/Computer Science/_Computer Science.md",
+    "Science/Mathematics/Mathematics of Interest.md",
+    "Science/Mathematics/The Riemann Hypothesis.md",
+    "Science/Astronomy/Geodesic Equations.md",
+    "Reason/i. The Julian Star and Intellectualism as a Category of People.md",
+    "Untitled.canvas",
+    "The Grounded Study/Science/Untitled Diagram.svg",
+    "Untitled Diagram 1.svg",
+    "Pasted image 20250513145111.png",
+    "Pasted image 20250513145109.png",
+    "Pasted image 20250513144915.png",
+    "Pasted image 20250513144825.png",
+    "Pasted image 20250513144907.png",
+    "Untitled 1.canvas"
   ]
 }
