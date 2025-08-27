@@ -3,5 +3,12 @@
   "calendar",
   "dataview",
   "obsidian-file-color",
-  "obsidian-footnotes"
+  "obsidian-footnotes",
+  "obsidian-git",
+  "highlightr-plugin",
+  "obsidian-icon-folder",
+  "obsidian-kanban",
+  "obsidian-minimal-settings",
+  "remember-cursor-position",
+  "obsidian-style-settings"
 ]
