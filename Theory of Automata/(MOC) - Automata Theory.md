@@ -11,6 +11,6 @@ Automata theory helps us understand:
 | Chapter                    | Topics                                                                               |
 | -------------------------- | ------------------------------------------------------------------------------------ |
 | **1.Background**           | Nothing major to note regarding the course outline. An interesting read nonetheless. |
-| **2.Languages**            | [[2.1 Theory of Formal Languages]]                                                   |
+| **2.Languages**            | [[2.1 Theory of Formal Languages]], [[2.2 Kleene's Closure]]                         |
 | **3.Recursive Definition** |                                                                                      |
 | **MISC**                   | [[-NOTATIONS]]                                                                       |
