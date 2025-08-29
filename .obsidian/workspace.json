@@ -16,8 +16,24 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "e2eb4994edc43115",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Theory of Automata/-NOTATIONS.md",
+                "bFile": "Theory of Automata/-NOTATIONS.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: -NOTATIONS"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,8 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "283bbd28cf2271a2",
+  "active": "e2eb4994edc43115",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Theory of Automata/2.p Problems.md",
+    "Theory of Automata/2.2 Kleene's and Positive Closure.md",
+    "Linear Algebra/(MOC) - Linear Algebra.md",
     "Discrete Structures/(MOC) - Discrete Structures.md",
     "Discrete Structures/6. Set Theory.md",
     "Discrete Structures/Functions/One-to-one, Onto, and Inverse Functions.md",
@@ -191,7 +211,6 @@
     "Data Structures/Trees.md",
     "Theory of Automata/(MOC) - Automata Theory.md",
     "Discrete Structures/6.1 Set Notations.md",
-    "conflict-files-obsidian-git.md",
     "Data Structures/Arrays.md",
     "Data Structures/(MOC) - Data Structures.md",
     "Data Structures/Linked Lists.md",
@@ -204,7 +223,6 @@
     "Discrete Structures/Set Theory",
     "Civics",
     "Welcome.md",
-    "Untitled.md",
     "Theory of Automata",
     "C.O.A.L",
     "Linear Algebra",
