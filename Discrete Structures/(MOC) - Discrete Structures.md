@@ -1,4 +1,3 @@
 
 ## Chapters
-- [[6. Set Theory]]
-- [[Functions]]
+- [[6.1 Set Notations]]
