@@ -6,6 +6,7 @@
       {
         "id": "e3548a670dc0075a",
         "type": "tabs",
+        "dimension": 45.18213866039953,
         "children": [
           {
             "id": "8eebf480685c4bbc",
@@ -27,6 +28,7 @@
       {
         "id": "820d0782bce04df0",
         "type": "tabs",
+        "dimension": 54.81786133960047,
         "children": [
           {
             "id": "8cdfa1b86340c650",
@@ -97,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 224.5,
+    "collapsed": true
   },
   "right": {
     "id": "9ff74f0d31edc521",
@@ -224,15 +227,16 @@
   },
   "active": "8eebf480685c4bbc",
   "lastOpenFiles": [
-    "Books/Introduction To Computer Theory.pdf",
+    "Theory of Automata/[[Introduction To Computer Theory.pdf.md",
     "Theory of Automata/3.1 Recursive Definitions.md",
+    "Books/Introduction To Computer Theory.pdf",
+    "Theory of Automata/2.p Problems.md",
     "Theory of Automata/2.2 Kleene's and Positive Closure.md",
     "Theory of Automata/(MOC) - Automata Theory.md",
     "Theory of Automata/-NOTATIONS.md",
     "Theory of Automata/2.1 Theory of Formal Languages.md",
     "Discrete Structures/6.1 Set Notations.md",
     "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
-    "Theory of Automata/2.p Problems.md",
     "Untitled",
     "Theory of Automata/2.3 Positive.md",
     "Discrete Structures/(MOC) - Discrete Structures.md",
