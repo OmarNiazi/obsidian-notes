@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory of Automata/(MOC) - Automata Theory.md",
+                "file": "Theory of Automata/3.1 Recursive Definitions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(MOC) - Automata Theory"
+              "title": "3.1 Recursive Definitions"
             }
           }
         ],
@@ -222,9 +222,9 @@
   },
   "active": "8eebf480685c4bbc",
   "lastOpenFiles": [
-    "Theory of Automata/-NOTATIONS.md",
     "Theory of Automata/3.1 Recursive Definitions.md",
     "Theory of Automata/(MOC) - Automata Theory.md",
+    "Theory of Automata/-NOTATIONS.md",
     "Theory of Automata/2.1 Theory of Formal Languages.md",
     "Discrete Structures/6.1 Set Notations.md",
     "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
