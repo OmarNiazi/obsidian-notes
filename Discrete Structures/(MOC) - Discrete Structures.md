@@ -1,4 +1,4 @@
 
 ## Chapters
-- [[6. Set Theory]]
-- [[Functions]]
+- [[1.1.1  Propositions, Negations, Conjunctions, and Disjunctions ]]
+- [[6.1 Set Notations]]
