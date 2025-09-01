@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory of Automata/3.1 Recursive Definitions.md",
+                "file": "Theory of Automata/3.p Problems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3.1 Recursive Definitions"
+              "title": "3.p Problems"
             }
           }
         ]
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "9ff74f0d31edc521",
@@ -224,8 +223,9 @@
   },
   "active": "e35527a64bb646b5",
   "lastOpenFiles": [
-    "Books/Introduction To Computer Theory.pdf",
     "Theory of Automata/3.1 Recursive Definitions.md",
+    "Theory of Automata/3.p Problems.md",
+    "Books/Introduction To Computer Theory.pdf",
     "Books/Discrete/Discrete_Mathematics_with_Applications_5th_Edition_Susanna.pdf",
     "Theory of Automata/[[Introduction To Computer Theory.pdf.md",
     "Theory of Automata/2.p Problems.md",
