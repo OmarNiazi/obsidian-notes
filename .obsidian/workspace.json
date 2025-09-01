@@ -189,8 +189,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -221,15 +221,14 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8eebf480685c4bbc",
   "lastOpenFiles": [
-    "Theory of Automata/[[Introduction To Computer Theory.pdf.md",
-    "Theory of Automata/3.1 Recursive Definitions.md",
     "Books/Introduction To Computer Theory.pdf",
+    "Theory of Automata/3.1 Recursive Definitions.md",
+    "Theory of Automata/[[Introduction To Computer Theory.pdf.md",
     "Theory of Automata/2.p Problems.md",
     "Theory of Automata/2.2 Kleene's and Positive Closure.md",
     "Theory of Automata/(MOC) - Automata Theory.md",
@@ -262,7 +261,6 @@
     "Books/Mathematics/LA/Linear Algebra and Its Applications by David C. Lay, Steven R. Lay, Judi J. McDonald (z-lib.org).pdf",
     "Books/Mathematics/LA/Instructor’s Solutions Manual Linear Algebra and Its Applications 5th Edition David C. Lay.pdf",
     "Books/Mathematics/LA",
-    "Chain Of Thoughts.md",
     "Untitled.canvas",
     "The Grounded Study/Science/Untitled Diagram.svg",
     "Untitled Diagram 1.svg",
