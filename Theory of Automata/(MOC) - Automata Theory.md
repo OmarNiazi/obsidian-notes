@@ -12,5 +12,5 @@ Automata theory helps us understand:
 | -------------------------- | ------------------------------------------------------------------------------------------- |
 | **1.Background**           | Nothing major to note regarding the course outline. An interesting read nonetheless.        |
 | **2.Languages**            | [[2.1 Theory of Formal Languages]], [[2.2 Kleene's and Positive Closure]], [[2.p Problems]] |
-| **3.Recursive Definition** | [[3.1 Recursive Definitions]]                                                               |
+| **3.Recursive Definition** | [[3.1 Recursive Definitions]], [[3.p Problems]]                                             |
 | **MISC**                   | [[-NOTATIONS]]                                                                              |
