@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 224.5,
+    "collapsed": true
   },
   "right": {
     "id": "9ff74f0d31edc521",
@@ -221,10 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "026841457cd70a36",
+  "active": "e35527a64bb646b5",
   "lastOpenFiles": [
-    "Theory of Automata/3.1 Recursive Definitions.md",
     "Books/Introduction To Computer Theory.pdf",
+    "Theory of Automata/3.1 Recursive Definitions.md",
     "Books/Discrete/Discrete_Mathematics_with_Applications_5th_Edition_Susanna.pdf",
     "Theory of Automata/[[Introduction To Computer Theory.pdf.md",
     "Theory of Automata/2.p Problems.md",
