@@ -1,10 +1,10 @@
 {
-  "cssTheme": "Neo",
   "theme": "obsidian",
-  "accentColor": "#fe4d4d",
+  "accentColor": "#616161",
   "interfaceFontFamily": "",
+  "cssTheme": "Typomagical",
   "textFontFamily": "Bookman Old Style,Cascadia Code",
-  "baseFontSize": 19,
+  "baseFontSize": 17,
   "baseFontSizeAction": true,
   "monospaceFontFamily": "Cascadia Code",
   "showViewHeader": false,
