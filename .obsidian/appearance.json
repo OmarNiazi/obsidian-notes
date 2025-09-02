@@ -1,9 +1,9 @@
 {
   "theme": "obsidian",
-  "accentColor": "#616161",
+  "accentColor": "#9795fe",
   "interfaceFontFamily": "",
-  "cssTheme": "Typomagical",
-  "textFontFamily": "Bookman Old Style,Cascadia Code",
+  "cssTheme": "Sparkling Night",
+  "textFontFamily": "Bookman Old Style,Cascadia Code,MS Gothic",
   "baseFontSize": 17,
   "baseFontSizeAction": true,
   "monospaceFontFamily": "Cascadia Code",
