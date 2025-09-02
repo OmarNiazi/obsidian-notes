@@ -11,10 +11,15 @@
             "id": "e3b0f5ff0c126ad5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1.1.1  Propositions, Negations, Conjunctions, and Disjunctions"
             }
           }
         ]
@@ -177,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "283bbd28cf2271a2",
+  "active": "e3b0f5ff0c126ad5",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Theory of Automata/2.2 Kleene's and Positive Closure.md",
