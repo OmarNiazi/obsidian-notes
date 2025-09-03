@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
+                "file": "Data Structures/Trees.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1.1.1  Propositions, Negations, Conjunctions, and Disjunctions"
+              "title": "Trees"
             }
           }
         ]
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,11 +184,11 @@
   },
   "active": "e3b0f5ff0c126ad5",
   "lastOpenFiles": [
+    "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
     "Data Structures/Complexity Theory.md",
     "Data Structures/(MOC) - Data Structures.md",
     "Discrete Structures/(MOC) - Discrete Structures.md",
     "Discrete Structures/1.1.2 Implications, Converse, Inverse, Contrapositive and Biconditionals.md",
-    "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
     "Discrete Structures/Implications, Converse, Inverse, Contrapositive and Biconditionals.md",
     "Theory of Automata/2.2 Kleene's and Positive Closure.md",
     "Theory of Automata/2.p Problems.md",
