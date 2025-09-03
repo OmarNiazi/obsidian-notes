@@ -1,4 +1,6 @@
 {
   "cssTheme": "Typomagical",
-  "accentColor": "#4f4f4f"
+  "accentColor": "#4f4f4f",
+  "interfaceFontFamily": "bookman",
+  "textFontFamily": "Bookman Old Style"
 }

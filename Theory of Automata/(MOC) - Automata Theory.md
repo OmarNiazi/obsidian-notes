@@ -8,9 +8,10 @@ Automata theory helps us understand:
 ---
 **NOTE:** Majority of the notes I make will be from lecture slides, rather than the book. The book is only reading material to put things into context and get immersed in the concept. The Lecture Slides are direct and organized. However, I might take some headings from the book as it has more concise and verbose vocabulary. i.e. the slides named "Preliminaries" is noted down as a "2.1 Theory of Formal Languages".
 
-| Chapter                    | Topics                                                                                      |
-| -------------------------- | ------------------------------------------------------------------------------------------- |
-| **1.Background**           | Nothing major to note regarding the course outline. An interesting read nonetheless.        |
-| **2.Languages**            | [[2.1 Theory of Formal Languages]], [[2.2 Kleene's and Positive Closure]], [[2.p Problems]] |
-| **3.Recursive Definition** | [[3.1 Recursive Definitions]], [[3.p Problems]]                                             |
-| **MISC**                   | [[-NOTATIONS]]                                                                              |
+| Chapter                     | Topics                                                                                      |
+| --------------------------- | ------------------------------------------------------------------------------------------- |
+| **1. Background**           | Nothing major to note regarding the course outline. An interesting read nonetheless.        |
+| **2. Languages**            | [[2.1 Theory of Formal Languages]], [[2.2 Kleene's and Positive Closure]], [[2.p Problems]] |
+| **3. Recursive Definition** | [[3.1 Recursive Definitions]], [[3.p Problems]]                                             |
+| **4. Regular Expressions**  | [[4.1 Regular Expressions]]                                                                 |
+| **MISC**                    | [[-NOTATIONS]]                                                                              |
