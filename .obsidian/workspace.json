@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "27916aba84a4a204",
+        "id": "3823f922b208fb71",
         "type": "tabs",
         "children": [
           {
-            "id": "81a516af5a091100",
+            "id": "18c299fc1e0750dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Data Structures/Complexity Theory.md",
+                "bFile": "Data Structures/Complexity Theory.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Complexity Theory"
             }
           }
         ]
@@ -197,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "500cd7c21fb7dfe0",
+  "active": "18c299fc1e0750dc",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Books/Discrete/Discrete_Mathematics_with_Applications_5th_Edition_Susanna.pdf",

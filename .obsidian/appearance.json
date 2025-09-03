@@ -1,8 +1,12 @@
 {
   "theme": "obsidian",
-  "accentColor": "#22afd3",
+  "accentColor": "",
   "interfaceFontFamily": "",
+<<<<<<< HEAD
   "cssTheme": "",
+=======
+  "cssTheme": "Vanilla AMOLED",
+>>>>>>> origin/main
   "textFontFamily": "Bookman Old Style,Cascadia Code,MS Gothic",
   "baseFontSize": 17,
   "baseFontSizeAction": true,
