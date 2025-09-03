@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e4a63d70077f580d",
+        "id": "e57d4556e126305c",
         "type": "tabs",
         "children": [
           {
-            "id": "04247c813454ac8c",
+            "id": "b3ec270adb5f4a6f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "split-diff-view",
               "state": {
-                "file": "Books/Discrete/Discrete_Mathematics_with_Applications_5th_Edition_Susanna.pdf"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file-text",
-              "title": "Discrete_Mathematics_with_Applications_5th_Edition_Susanna"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -184,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,18 +201,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04247c813454ac8c",
+  "active": "b3ec270adb5f4a6f",
   "lastOpenFiles": [
-    "Books/Introduction To Computer Theory.pdf",
+    "conflict-files-obsidian-git.md",
+    "Books/Discrete/Discrete_Mathematics_with_Applications_5th_Edition_Susanna.pdf",
     "Theory of Automata/3.p Problems.md",
+    "Books/Introduction To Computer Theory.pdf",
     "Theory of Automata/3.1 Recursive Definitions.md",
     "Theory of Automata/(MOC) - Automata Theory.md",
-    "Theory of Automata/2.1 Theory of Formal Languages.md",
-    "Theory of Automata/-NOTATIONS.md",
-    "Books/Discrete/Discrete_Mathematics_with_Applications_5th_Edition_Susanna.pdf",
-    "Theory of Automata/[[Introduction To Computer Theory.pdf.md",
     "Theory of Automata/2.p Problems.md",
     "Theory of Automata/2.2 Kleene's and Positive Closure.md",
+    "Discrete Structures/1.1.2 Implications, Converse, Inverse, Contrapositive and Biconditionals.md",
+    "Data Structures/Complexity Theory.md",
+    "Theory of Automata/2.1 Theory of Formal Languages.md",
+    "Theory of Automata/-NOTATIONS.md",
+    "Theory of Automata/[[Introduction To Computer Theory.pdf.md",
     "Discrete Structures/6.1 Set Notations.md",
     "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
     "Untitled",
@@ -227,9 +231,6 @@
     "Discrete Structures/Functions/Functions Defined on General Sets.md",
     "Discrete Structures/Functions/Functions.md",
     "Linear Algebra/(MOC) - Linear Algebra.md",
-    "Linear Algebra/Span of Vectors.md",
-    "Linear Algebra/1.3 Vector Equations.md",
-    "Theory of Automata/2.1e Examples.md",
     "Linear Algebra",
     "Theory of Automata",
     "Books/Physics/Fundamentals of Physics, 10th Edition Solution Manual (David Halliday, Robert Resnick, Jearl Walker) (z-lib.org).pdf",
