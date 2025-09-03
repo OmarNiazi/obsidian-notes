@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 224.5,
+    "collapsed": true
   },
   "right": {
     "id": "9ff74f0d31edc521",
@@ -171,16 +172,6 @@
             }
           },
           {
-            "id": "ff19788b0a55e522",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "500cd7c21fb7dfe0",
             "type": "leaf",
             "state": {
@@ -191,20 +182,20 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
-        "id": "d3485e9b196acf5c",
+        "id": "b89a56e709341980",
         "type": "tabs",
         "children": [
           {
-            "id": "1ee66af3cb611110",
+            "id": "ff19788b0a55e522",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "calendar",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
