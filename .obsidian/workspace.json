@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "9ff74f0d31edc521",
@@ -221,8 +220,8 @@
   "active": "18c299fc1e0750dc",
   "lastOpenFiles": [
     "Theory of Automata/2.2 Kleene's and Positive Closure.md",
-    "Theory of Automata/2.p Problems.md",
     "Theory of Automata/4.1 Regular Expressions.md",
+    "Theory of Automata/2.p Problems.md",
     "Theory of Automata/(MOC) - Automata Theory.md",
     "Books/Introduction To Computer Theory.pdf",
     "Untitled",
