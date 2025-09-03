@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e57d4556e126305c",
+        "id": "27916aba84a4a204",
         "type": "tabs",
         "children": [
           {
-            "id": "b3ec270adb5f4a6f",
+            "id": "81a516af5a091100",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -201,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3ec270adb5f4a6f",
+  "active": "500cd7c21fb7dfe0",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Books/Discrete/Discrete_Mathematics_with_Applications_5th_Edition_Susanna.pdf",
