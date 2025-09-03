@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Complexity Theory.md",
+                "file": "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Complexity Theory"
+              "title": "1.1.1  Propositions, Negations, Conjunctions, and Disjunctions"
             }
           }
         ]
@@ -184,8 +184,8 @@
   },
   "active": "e3b0f5ff0c126ad5",
   "lastOpenFiles": [
-    "Data Structures/(MOC) - Data Structures.md",
     "Data Structures/Complexity Theory.md",
+    "Data Structures/(MOC) - Data Structures.md",
     "Discrete Structures/(MOC) - Discrete Structures.md",
     "Discrete Structures/1.1.2 Implications, Converse, Inverse, Contrapositive and Biconditionals.md",
     "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
