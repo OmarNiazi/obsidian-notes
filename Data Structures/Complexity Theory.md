@@ -9,6 +9,8 @@ There may be different algorithms to deal with a single problem. Some are better
 With these criterion listed, we will now focus on the **Time Complexity**. 
 
 ---
+## Time Complexity
+
 Instead of seconds, we measure the time taken by an algorithm in steps, called **Primitive Operations**. Each operation, performed in an algorithm equals one step. These operations include:
 - Assignment 
 - Increment/Decrement
@@ -16,3 +18,4 @@ Instead of seconds, we measure the time taken by an algorithm in steps, called *
 - Logical/Bitwise/Integer operations
 - and others...
 
+Each operation runs in the step of 1 time unit.
