@@ -5,18 +5,26 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "MOC",
+      "color": {
+        "a": 1,
+        "rgb": 8421504
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 1.1,
+  "textFadeMultiplier": 0.1,
   "nodeSizeMultiplier": 1.69712554496416,
   "lineSizeMultiplier": 2.23010418975837,
   "collapse-forces": false,
-  "centerStrength": 0.283307470627355,
-  "repelStrength": 6.42429616493017,
-  "linkStrength": 1,
-  "linkDistance": 212,
-  "scale": 0.6680133484051953,
-  "close": false
+  "centerStrength": 0.171063326682923,
+  "repelStrength": 4.36562476908298,
+  "linkStrength": 0.634449124362669,
+  "linkDistance": 213,
+  "scale": 0.3972144766135974,
+  "close": true
 }

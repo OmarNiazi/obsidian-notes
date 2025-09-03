@@ -1,20 +1,4 @@
 {
-  "theme": "obsidian",
-  "accentColor": "",
-  "interfaceFontFamily": "",
-<<<<<<< HEAD
-  "cssTheme": "",
-=======
-  "cssTheme": "Vanilla AMOLED",
->>>>>>> origin/main
-  "textFontFamily": "Bookman Old Style,Cascadia Code,MS Gothic",
-  "baseFontSize": 17,
-  "baseFontSizeAction": true,
-  "monospaceFontFamily": "Cascadia Code",
-  "showViewHeader": false,
-  "nativeMenus": false,
-  "enabledCssSnippets": [
-    "custom-code"
-  ],
-  "showRibbon": true
+  "cssTheme": "Typomagical",
+  "accentColor": "#4f4f4f"
 }
