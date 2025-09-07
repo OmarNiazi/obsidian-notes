@@ -1,25 +1,20 @@
 {
   "main": {
-    "id": "7c52488259a1f33f",
+    "id": "2282e786059d2808",
     "type": "split",
     "children": [
       {
-        "id": "e652840e634b105a",
+        "id": "3823f922b208fb71",
         "type": "tabs",
         "children": [
           {
-            "id": "e3b0f5ff0c126ad5",
+            "id": "9d62d9c3f7a8d6fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures/Trees.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Trees"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -28,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "76c70b6afa3ae881",
+    "id": "1bc7049d1d209b2f",
     "type": "split",
     "children": [
       {
-        "id": "0a9546e99cd1f325",
+        "id": "8822e85fd1461fa9",
         "type": "tabs",
         "children": [
           {
-            "id": "97ccc2f152106f18",
+            "id": "7adb17c520de5016",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +44,7 @@
             }
           },
           {
-            "id": "3da011f3dfdb340e",
+            "id": "9865e682d2a9ebea",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +61,7 @@
             }
           },
           {
-            "id": "317b00fcc213916b",
+            "id": "0cc7f2731f058fb8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,57 +74,38 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 224.5
   },
   "right": {
-    "id": "bd5b8241380250a9",
+    "id": "9ff74f0d31edc521",
     "type": "split",
     "children": [
       {
-        "id": "fd5c19aab7cd6a9a",
+        "id": "371e316ae69ebf68",
         "type": "tabs",
         "children": [
           {
-            "id": "be45cca4d6da6f23",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 1.1.1  Propositions, Negations, Conjunctions, and Disjunctions"
-            }
-          },
-          {
-            "id": "26f158f135183b94",
+            "id": "9ba1635c639316bc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Structures/Set Theory/Set Notations.md",
+                "file": "Science/Astronomy/Geodesic Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Set Notations"
+              "title": "Outgoing links from Geodesic Equations"
             }
           },
           {
-            "id": "930b330994114a31",
+            "id": "ce24617f706e980c",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -138,22 +114,41 @@
             }
           },
           {
-            "id": "f53c21044b588cf9",
+            "id": "f25bd75d5550b87c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Structures/Set Theory/Set Notations.md",
+                "file": "Science/Astronomy/Geodesic Equations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Set Notations"
+              "title": "Outline of Geodesic Equations"
             }
           },
           {
-            "id": "283bbd28cf2271a2",
+            "id": "cb1936487faf405b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Theory of Automata/2.1 Theory of Formal Languages.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2.1 Theory of Formal Languages"
+            }
+          },
+          {
+            "id": "500cd7c21fb7dfe0",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -161,9 +156,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "b89a56e709341980",
+        "type": "tabs",
+        "children": [
           {
-            "id": "9d285f89be8c97fc",
+            "id": "ff19788b0a55e522",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -172,62 +174,73 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
-      "workspaces:Manage workspace layouts": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e3b0f5ff0c126ad5",
+  "active": "9d62d9c3f7a8d6fe",
   "lastOpenFiles": [
-    "Theory of Automata/4.p Examples & Problems.md",
-    "Theory of Automata/4.1 Regular Expressions.md",
-    "Theory of Automata/3.p Examples & Problems.md",
-    "Theory of Automata/2.p Examples & Problems.md",
-    "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
-    "Data Structures/Complexity Theory.md",
-    "Data Structures/(MOC) - Data Structures.md",
-    "Discrete Structures/(MOC) - Discrete Structures.md",
-    "Discrete Structures/1.1.2 Implications, Converse, Inverse, Contrapositive and Biconditionals.md",
-    "Discrete Structures/Implications, Converse, Inverse, Contrapositive and Biconditionals.md",
-    "Theory of Automata/2.2 Kleene's and Positive Closure.md",
-    "Theory of Automata/2.p Problems.md",
-    "Discrete Structures/6.1 Set Notations.md",
-    "conflict-files-obsidian-git.md",
-    "Theory of Automata/2.1 Theory of Formal Languages.md",
+    "Theory of Automata/6.2 Generalized TGs.md",
     "Theory of Automata/(MOC) - Automata Theory.md",
+    "Theory of Automata/6.1 Transition Graphs.md",
+    "Theory of Automata/5.1 Finite Automata.md",
+    "Books/Introduction To Computer Theory.pdf",
+    "Theory of Automata/4.1 Regular Expressions.md",
+    "Theory of Automata/2.2 Kleene's and Positive Closure.md",
+    "Theory of Automata/2.1 Theory of Formal Languages.md",
+    "Theory of Automata/Chapter 12.md",
+    "Theory of Automata/4.p Examples & Problems.md",
+    "conflict-files-obsidian-git.md",
+    "Theory of Automata/2.p Examples & Problems.md",
+    "Theory of Automata/3.p Examples & Problems.md",
     "Theory of Automata/3.1 Recursive Definitions.md",
-    "Theory of Automata/3.p Problems.md",
+    "Untitled",
+    "Books/Discrete/Discrete_Mathematics_with_Applications_5th_Edition_Susanna.pdf",
+    "Discrete Structures/1.1.2 Implications, Converse, Inverse, Contrapositive and Biconditionals.md",
+    "Data Structures/Complexity Theory.md",
+    "Theory of Automata/-NOTATIONS.md",
+    "Theory of Automata/[[Introduction To Computer Theory.pdf.md",
+    "Discrete Structures/6.1 Set Notations.md",
+    "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
+    "Theory of Automata/2.3 Positive.md",
+    "Discrete Structures/(MOC) - Discrete Structures.md",
     "Data Structures/Trees.md",
     "Data Structures/Linked Lists.md",
     "Data Structures/Arrays.md",
-    "Theory of Automata/-NOTATIONS.md",
-    "Linear Algebra/(MOC) - Linear Algebra.md",
-    "Linear Algebra/1.3 Vector Equations.md",
-    "Linear Algebra/Span of Vectors.md",
-    "Discrete Structures/6. Set Theory.md",
-    "Discrete Structures/Functions",
-    "Discrete Structures/Set Theory",
-    "Civics",
-    "Theory of Automata",
-    "C.O.A.L",
+    "Data Structures/(MOC) - Data Structures.md",
+    "Discrete Structures/Set Theory/6. Set Theory.md",
     "Linear Algebra",
-    "Data Structures",
-    "Discrete Structures"
+    "Theory of Automata",
+    "Books/Physics/Fundamentals of Physics, 10th Edition Solution Manual (David Halliday, Robert Resnick, Jearl Walker) (z-lib.org).pdf",
+    "Books/Physics/Fundamentals of Physics- 10th Edition by Halliday Resnick Walker.pdf",
+    "Books/Physics",
+    "Books/Mathematics/LA/Linear Algebra and Its Applications by David C. Lay, Steven R. Lay, Judi J. McDonald (z-lib.org).pdf",
+    "Books/Mathematics/LA/Instructor’s Solutions Manual Linear Algebra and Its Applications 5th Edition David C. Lay.pdf",
+    "Untitled.canvas",
+    "The Grounded Study/Science/Untitled Diagram.svg",
+    "Untitled Diagram 1.svg",
+    "Pasted image 20250513145111.png",
+    "Pasted image 20250513145109.png",
+    "Pasted image 20250513144915.png",
+    "Pasted image 20250513144825.png",
+    "Pasted image 20250513144907.png",
+    "Untitled 1.canvas"
   ]
 }
