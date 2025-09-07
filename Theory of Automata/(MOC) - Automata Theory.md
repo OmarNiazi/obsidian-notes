@@ -15,5 +15,5 @@ Automata theory helps us understand:
 | **3. Recursive Definition**           | [[3.1 Recursive Definitions]], [[3.p Examples & Problems]]                                             |
 | **4. Regular Expressions**            | [[4.1 Regular Expressions]]                                                                            |
 | **5. Finite Automata**                | [[5.1 Finite Automata]]                                                                                |
-| **6. Transition Graphs (cont. of 5)** | [[6.1 Transition Graphs]]                                                                              |
+| **6. Transition Graphs (cont. of 5)** | [[6.1 Transition Graphs]], [[6.2 Generalized TGs]]                                                     |
 | **MISC**                              | [[-NOTATIONS]]                                                                                         |
