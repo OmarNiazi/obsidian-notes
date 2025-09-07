@@ -6,13 +6,14 @@ Automata theory helps us understand:
 - The design of **compilers, interpreters, and programming languages**.
 - The **working of search engines, regex, AI models, and protocols**.
 ---
-**NOTE:** Majority of the notes I make will be from lecture slides, rather than the book. The book is only reading material to put things into context and get immersed in the concept. The Lecture Slides are direct and organized. However, I might take some headings from the book as it has more concise and verbose vocabulary. i.e. the slides named "Preliminaries" is noted down as a "2.1 Theory of Formal Languages".
+**NOTE:** Majority of the notes I make will be from lecture slides, rather than the book. The book is only reading material to put things into context and get immersed in the concept. The lecture slides are direct and organized. However, I will follow the structure and language from the book as it is more organized for my taste has more concise and verbose vocabulary. i.e. the slides named "Preliminaries" is noted down as a "2.1 Theory of Formal Languages".
 
-| Chapter                     | Topics                                                                                                 |
-| --------------------------- | ------------------------------------------------------------------------------------------------------ |
-| **1. Background**           | Nothing major to note regarding the course outline. An interesting read nonetheless.                   |
-| **2. Languages**            | [[2.1 Theory of Formal Languages]], [[2.2 Kleene's and Positive Closure]], [[2.p Examples & Problems]] |
-| **3. Recursive Definition** | [[3.1 Recursive Definitions]], [[3.p Examples & Problems]]                                             |
-| **4. Regular Expressions**  | [[4.1 Regular Expressions]]                                                                            |
-| **5. Finite Automata**      | [[5.1 Finite Automata]]                                                                                |
-| **MISC**                    | [[-NOTATIONS]]                                                                                         |
+| Chapter                               | Topics                                                                                                 |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **1. Background**                     | Nothing major to note regarding the course outline. An interesting read nonetheless.                   |
+| **2. Languages**                      | [[2.1 Theory of Formal Languages]], [[2.2 Kleene's and Positive Closure]], [[2.p Examples & Problems]] |
+| **3. Recursive Definition**           | [[3.1 Recursive Definitions]], [[3.p Examples & Problems]]                                             |
+| **4. Regular Expressions**            | [[4.1 Regular Expressions]]                                                                            |
+| **5. Finite Automata**                | [[5.1 Finite Automata]]                                                                                |
+| **6. Transition Graphs (cont. of 5)** | [[6.1 Transition Graphs]]                                                                              |
+| **MISC**                              | [[-NOTATIONS]]                                                                                         |
