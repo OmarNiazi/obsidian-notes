@@ -11,15 +11,10 @@
             "id": "9d62d9c3f7a8d6fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory of Automata/6.2 Generalized TGs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "6.2 Generalized TGs"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -183,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,9 +197,9 @@
   },
   "active": "9d62d9c3f7a8d6fe",
   "lastOpenFiles": [
+    "Theory of Automata/6.2 Generalized TGs.md",
     "Theory of Automata/(MOC) - Automata Theory.md",
     "Theory of Automata/6.1 Transition Graphs.md",
-    "Theory of Automata/6.2 Generalized TGs.md",
     "Theory of Automata/5.1 Finite Automata.md",
     "Books/Introduction To Computer Theory.pdf",
     "Theory of Automata/4.1 Regular Expressions.md",
