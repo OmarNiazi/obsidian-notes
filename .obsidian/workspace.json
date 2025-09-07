@@ -6,6 +6,7 @@
       {
         "id": "3823f922b208fb71",
         "type": "tabs",
+        "dimension": 30.787309048178614,
         "children": [
           {
             "id": "18c299fc1e0750dc",
@@ -21,12 +22,29 @@
               "icon": "lucide-file",
               "title": "4.1 Regular Expressions"
             }
+          },
+          {
+            "id": "bbb2b965e3f6513a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory of Automata/5.1 Finite Automata.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "5.1 Finite Automata"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e1363bd720f0d95c",
         "type": "tabs",
+        "dimension": 69.21269095182139,
         "children": [
           {
             "id": "7ea24ba1896ed1b7",
@@ -218,22 +236,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "18c299fc1e0750dc",
+  "active": "bbb2b965e3f6513a",
   "lastOpenFiles": [
-    "Books/Introduction To Computer Theory.pdf",
+    "Theory of Automata/(MOC) - Automata Theory.md",
+    "Theory of Automata/5.1 Finite Automata.md",
     "Theory of Automata/4.1 Regular Expressions.md",
+    "Theory of Automata/2.2 Kleene's and Positive Closure.md",
+    "Theory of Automata/2.1 Theory of Formal Languages.md",
+    "Theory of Automata/Chapter 12.md",
+    "Books/Introduction To Computer Theory.pdf",
     "Theory of Automata/4.p Examples & Problems.md",
     "conflict-files-obsidian-git.md",
-    "Theory of Automata/2.2 Kleene's and Positive Closure.md",
     "Theory of Automata/2.p Examples & Problems.md",
     "Theory of Automata/3.p Examples & Problems.md",
     "Theory of Automata/3.1 Recursive Definitions.md",
-    "Theory of Automata/(MOC) - Automata Theory.md",
     "Untitled",
     "Books/Discrete/Discrete_Mathematics_with_Applications_5th_Edition_Susanna.pdf",
     "Discrete Structures/1.1.2 Implications, Converse, Inverse, Contrapositive and Biconditionals.md",
     "Data Structures/Complexity Theory.md",
-    "Theory of Automata/2.1 Theory of Formal Languages.md",
     "Theory of Automata/-NOTATIONS.md",
     "Theory of Automata/[[Introduction To Computer Theory.pdf.md",
     "Discrete Structures/6.1 Set Notations.md",
@@ -247,7 +267,6 @@
     "Discrete Structures/Set Theory/6. Set Theory.md",
     "Discrete Structures/Set Theory/6.1 Set Notations.md",
     "Discrete Structures/Functions/One-to-one, Onto, and Inverse Functions.md",
-    "Discrete Structures/Functions/Functions Defined on General Sets.md",
     "Linear Algebra",
     "Theory of Automata",
     "Books/Physics/Fundamentals of Physics, 10th Edition Solution Manual (David Halliday, Robert Resnick, Jearl Walker) (z-lib.org).pdf",
