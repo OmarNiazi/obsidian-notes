@@ -233,10 +233,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7ea24ba1896ed1b7",
+  "active": "500cd7c21fb7dfe0",
   "lastOpenFiles": [
-    "Theory of Automata/4.1 Regular Expressions.md",
     "Books/Introduction To Computer Theory.pdf",
+    "conflict-files-obsidian-git.md",
+    "Theory of Automata/4.1 Regular Expressions.md",
     "Theory of Automata/4.p Examples & Problems.md",
     "Theory of Automata/2.2 Kleene's and Positive Closure.md",
     "Theory of Automata/2.p Examples & Problems.md",
@@ -244,7 +245,6 @@
     "Theory of Automata/3.1 Recursive Definitions.md",
     "Theory of Automata/(MOC) - Automata Theory.md",
     "Untitled",
-    "conflict-files-obsidian-git.md",
     "Books/Discrete/Discrete_Mathematics_with_Applications_5th_Edition_Susanna.pdf",
     "Discrete Structures/1.1.2 Implications, Converse, Inverse, Contrapositive and Biconditionals.md",
     "Data Structures/Complexity Theory.md",
