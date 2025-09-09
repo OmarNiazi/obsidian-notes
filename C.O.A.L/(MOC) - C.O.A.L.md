@@ -13,4 +13,13 @@ These notes don't follow the lecture slides at least in terms of structure. I'll
 
 ---
 
-[[1.1 Assignment 1 - Take Aways]]
+| Index | Topics                            |
+| ----- | --------------------------------- |
+| 1     | [[1.1 Registers]]                     |
+| 2     | [[1.2 Memory Allocation]]             |
+| 3     | [[1.3 Assignment 1 - Take Aways]] |
+
+In the index above the 1 indicates the phase of the semester
+1 = up to sessional I
+2 = after sessional I up to sessional II
+3 = after sessional II up to the finals
