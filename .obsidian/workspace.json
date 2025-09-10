@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Linked Lists.md",
+                "file": "Linear Algebra/1.3 Vector Equations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Linked Lists"
+              "title": "1.3 Vector Equations"
             }
           }
         ],
@@ -232,12 +232,12 @@
   },
   "active": "bcf8af1b168fea5e",
   "lastOpenFiles": [
-    "Data Structures/Trees.md",
-    "Data Structures/Linked Lists.md",
-    "C.O.A.L/(MOC) - C.O.A.L.md",
-    "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
     "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
     "Discrete Structures/(MOC) - Discrete Structures.md",
+    "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
+    "Data Structures/Linked Lists.md",
+    "Data Structures/Trees.md",
+    "C.O.A.L/(MOC) - C.O.A.L.md",
     "Data Structures/Complexity Theory.md",
     "Data Structures/(MOC) - Data Structures.md",
     "Theory of Automata/6.1 Transition Graphs.md",
