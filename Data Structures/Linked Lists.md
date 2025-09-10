@@ -2,17 +2,54 @@ Linked List is one of the fundamental data structures. The key difference betwee
 
 ```mermaid
 graph LR
-    A1[data: 1]:::data --> A2[next*]:::ptr
-    B1[data: 2]:::data --> B2[next*]:::ptr
-    C1[data: 3]:::data --> C2[next*]:::ptr
-    D1[data: 4]:::data --> D2[NULL]:::ptr
-
-    A2 --> B1
-    B2 --> C1
-    C2 --> D1
-
-    classDef data fill:#a0d8ef,stroke:#333,stroke-width:1px;
-    classDef ptr fill:#f9d776,stroke:#333,stroke-width:1px;
+    %% Node 1
+    subgraph node1 [" "]
+        data1[Data: 10]
+        next1[Next]
+    end
+    
+    %% Node 2
+    subgraph node2 [" "]
+        data2[Data: 20]
+        next2[Next]
+    end
+    
+    %% Node 3
+    subgraph node3 [" "]
+        data3[Data: 30]
+        next3[Next]
+    end
+    
+    %% Node 4
+    subgraph node4 [" "]
+        data4[Data: 40]
+        next4[Next]
+    end
+    
+    %% NULL terminator
+    null[NULL]
+    
+    %% Connections from next pointer to next node
+    next1 --> node2
+    next2 --> node3
+    next3 --> node4
+    next4 --> null
+    
+    %% Head pointer
+    head[Head] --> node1
+    
+    %% Styling
+    classDef nodeStyle fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    classDef dataStyle fill:#fff3e0,stroke:#e65100,stroke-width:1px
+    classDef nextStyle fill:#f3e5f5,stroke:#4a148c,stroke-width:1px
+    classDef headStyle fill:#c8e6c9,stroke:#1b5e20,stroke-width:2px
+    classDef nullStyle fill:#ffebee,stroke:#c62828,stroke-width:2px
+    
+    class node1,node2,node3,node4 nodeStyle
+    class data1,data2,data3,data4 dataStyle
+    class next1,next2,next3,next4 nextStyle
+    class head headStyle
+    class null nullStyle
 ```
 
 In case of a singly linked list:
