@@ -22,6 +22,7 @@
   "lineSizeMultiplier": 2.23010418975837,
   "collapse-forces": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "centerStrength": 0.46309022389714,
   "repelStrength": 18.436414690017,
   "linkStrength": 0.694820069459839,
@@ -29,6 +30,8 @@
   "scale": 0.3017176245531716,
   "close": false
 =======
+=======
+>>>>>>> origin/main
   "centerStrength": 0,
   "repelStrength": 0,
   "linkStrength": 1,
