@@ -11,14 +11,15 @@
             "id": "9d62d9c3f7a8d6fe",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Theory of Automata/3.p Examples & Problems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "3.p Examples & Problems"
             }
           }
         ]
@@ -200,18 +201,18 @@
   },
   "active": "9d62d9c3f7a8d6fe",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Theory of Automata/3.1 Recursive Definitions.md",
     "Theory of Automata/2.1 Theory of Formal Languages.md",
-    "Theory of Automata/Introduction To Computer Theory.pdf.md",
+    "Theory of Automata/(MOC) - Automata Theory.md",
     "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
     "C.O.A.L/(MOC) - C.O.A.L.md",
+    "conflict-files-obsidian-git.md",
+    "Theory of Automata/Introduction To Computer Theory.pdf.md",
     "C.O.A.L/1.2 Memory Allocation.md",
     "C.O.A.L/1.1 Registers.md",
     "C.O.A.L",
-    "Theory of Automata/3.1 Recursive Definitions.md",
     "Books/Introduction To Computer Theory.pdf",
     "Theory of Automata/6.2 Generalized TGs.md",
-    "Theory of Automata/(MOC) - Automata Theory.md",
     "Theory of Automata/6.1 Transition Graphs.md",
     "Theory of Automata/5.1 Finite Automata.md",
     "Theory of Automata/4.1 Regular Expressions.md",
