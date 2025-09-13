@@ -51,9 +51,129 @@
               "icon": "lucide-file",
               "title": "1.3 Assignment 1 - Take Aways"
             }
+          },
+          {
+            "id": "808169a4b45853ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 Assignment 1 - Take Aways"
+            }
+          },
+          {
+            "id": "e0b347e0d5875e05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory of Automata/4.1 Regular Expressions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1 Regular Expressions"
+            }
+          },
+          {
+            "id": "73bd4d7732ebfd73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory of Automata/5.1 Finite Automata.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "5.1 Finite Automata"
+            }
+          },
+          {
+            "id": "c0fe12cfacda5005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 Assignment 1 - Take Aways"
+            }
+          },
+          {
+            "id": "b15a0940303ebf7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 Assignment 1 - Take Aways"
+            }
+          },
+          {
+            "id": "a26ff58292fe0f71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 Assignment 1 - Take Aways"
+            }
+          },
+          {
+            "id": "c714a1785deaf1ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory of Automata/4.1 Regular Expressions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1 Regular Expressions"
+            }
+          },
+          {
+            "id": "b0e7a495561aca62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 Assignment 1 - Take Aways"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -230,18 +350,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bcf8af1b168fea5e",
+  "active": "b0e7a495561aca62",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Theory of Automata/Introduction To Computer Theory.pdf.md",
+    "Theory of Automata/4.1 Regular Expressions.md",
+    "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
+    "Theory of Automata/6.1 Transition Graphs.md",
+    "Theory of Automata/6.2 Generalized TGs.md",
+    "Theory of Automata/Chapter 12.md",
+    "Theory of Automata/5.1 Finite Automata.md",
     "C.O.A.L/(MOC) - C.O.A.L.md",
     "Data Structures/Linked Lists.md",
     "Linear Algebra/1.3 Vector Equations.md",
     "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
     "Discrete Structures/(MOC) - Discrete Structures.md",
-    "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
     "Data Structures/Trees.md",
     "Data Structures/Complexity Theory.md",
     "Data Structures/(MOC) - Data Structures.md",
-    "Theory of Automata/6.1 Transition Graphs.md",
     "C.O.A.L/1.2 Memory Allocation.md",
     "C.O.A.L/1.1 Registers.md",
     "Theory of Automata/(MOC) - Automata Theory.md",
@@ -250,16 +376,10 @@
     "Linear Algebra/Span of Vectors.md",
     "Discrete Structures/6.1 Set Notations.md",
     "Data Structures/Arrays.md",
-    "Theory of Automata/6.2 Generalized TGs.md",
     "C.O.A.L",
-    "Theory of Automata/5.1 Finite Automata.md",
-    "Theory of Automata/4.1 Regular Expressions.md",
     "Theory of Automata/3.p Examples & Problems.md",
     "Theory of Automata/3.1 Recursive Definitions.md",
-    "Theory of Automata/2.p Examples & Problems.md",
-    "Theory of Automata/2.2 Kleene's and Positive Closure.md",
     "Books/Introduction To Computer Theory.pdf",
-    "Theory of Automata/Chapter 12.md",
     "Books/Discrete/Discrete_Mathematics_with_Applications_5th_Edition_Susanna.pdf",
     "Linear Algebra",
     "Theory of Automata",
