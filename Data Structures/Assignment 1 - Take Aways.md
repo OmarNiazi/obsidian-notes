@@ -25,4 +25,13 @@ For collinearity of 3 points we an use:
 
 $\text{Area} = \frac{1}{2}\left|\det\begin{pmatrix}x_1 & y_1 & 1 \\x_2 & y_2 & 1 \\x_3 & y_3 & 1\end{pmatrix}\right| = 0$
 
-But building this matrix would require 3 points at a time and building every possible 3 point combination is O(n<sup>3</sup>). Which is 
+But building this matrix would require 3 points at a time and building every possible 3 point combination is O(n<sup>3</sup>). Which is eww.
+
+---
+### Slopes
+What if we take a point $i$ and we calculate the slope from $i$ to every point in the array. The slope calculation itself is O(1) and when we do it with every point it's O(n). We store the slopes in an array and now we check how many times the same slope is repeated and that will tell us the number of points lying on a line P<sub>i</sub> from the initial point. But that requires O(n<sup>2</sup>). So, we sort the array using Quick sort (O(n log n)) so that equal slopes are continuous in the array and we can simply count the points on equal slopes.
+
+Suppose there are k points lying on the line P<sub>i</sub> meaning number of collinear points is k + 1. But what we need is the number of sets of 3 of collinear points. For that we already have the point $i$. So, we take combinations of k, 2 at a time:
+
+$\binom{k}{2} = \frac{k!}{2!(k-2)!} = \frac{k(k-1)}{2}$
+
