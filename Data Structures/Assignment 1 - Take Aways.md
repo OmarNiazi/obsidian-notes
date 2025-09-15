@@ -3,6 +3,7 @@ The naïve approach was to use the combinations formula:
 
 **n C r: Total n objects taking r at a time**
 
+---
 ### Roads
 For the roads we needed 2 points at a time. So putting in r = 2 simplified the formula to:
 
@@ -35,3 +36,16 @@ Suppose there are k points lying on the line P<sub>i</sub> meaning number of col
 
 $\binom{k}{2} = \frac{k!}{2!(k-2)!} = \frac{k(k-1)}{2}$
 
+This whole operation will be O(n).
+
+---
+### Complexity
+Since the slope calculation was O(n) and the sorting was O(n log n) and the last counting part is O(n). So, the total for point $i$ is going to be:
+
+O(n) + O(n log n) + O(n) = O(2n + log n) = O(n log n)
+
+Now, we were doing this for 1 point $i$. Repeat for n points and we get the complexity:
+
+**O(n<sup>2</sup> log n)**.
+
+---
