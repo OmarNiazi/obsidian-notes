@@ -1,42 +1,22 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "MOC",
-      "color": {
-        "a": 1,
-        "rgb": 8421504
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0.1,
-  "nodeSizeMultiplier": 1.69712554496416,
-  "lineSizeMultiplier": 2.23010418975837,
-  "collapse-forces": false,
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "centerStrength": 0.46309022389714,
-  "repelStrength": 18.436414690017,
-  "linkStrength": 0.694820069459839,
-  "linkDistance": 205,
-  "scale": 0.3017176245531716,
-  "close": false
-=======
-=======
->>>>>>> origin/main
-  "centerStrength": 0,
-  "repelStrength": 0,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 162,
-  "scale": 0.7051919900675244,
-  "close": true
->>>>>>> origin/main
+  "linkDistance": 250,
+  "scale": 0.41019157349024077,
+  "close": false
 }
