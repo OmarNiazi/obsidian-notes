@@ -256,8 +256,14 @@ Node<T>* find(T item) {
 #### Remove from Head
 ```cpp
 void removeFromHead() {
-	if(!head) throw runtime_error("")
+	if(!head) throw runtime_error("EMPTY")
+	
 	Node<T>* nodeToDel = head;
 	head = head->next;
+	delete nodeToDel;
 }
+```
+
+#### Remove from Tail
+```
 ```
