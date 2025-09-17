@@ -98,7 +98,7 @@ Some of the functions of a linked list are as follows:
 And many more
 
 ---
-### Insert Function
+### Insert Functions
 #### Insert at Head
 ```cpp
 void insertAtHead(T item) {
@@ -114,9 +114,9 @@ void insertAtTail(T item) {
 	if(!head) insertAtHead(item);
 	else {
 		Node<T>* curr = head;
-		while(curr) curr = curr->next;
+		while(curr->next) curr = curr->next;
 		
-		curr = new Node<T>(item);
+		curr->next = new Node<T>(item);
 	}
 }
 ```
@@ -129,12 +129,39 @@ void insertAfter(T itemToInsert, T existingItem) {
 		curr = curr->next;
 	}
 	if(curr) {
-		Node<T>* newNode = new Node<T>(itemToInsert)
-		newNode = curr->next;
+		Node<T>* newNode = new Node<T>(itemToInsert);
+		newNode->next = curr->next;
 		curr->next = newNode;
 	}
 	else {
 		throw runtime_error("Data not found");
 	}
 }
+```
+
+#### Insert Before
+```cpp
+void insertBefore(T itemToInsert, T existingItem) {
+	if(!head) throw runtime_error("List is Empty");
+	if(head->data == existingItem) insertAtHead(itemToInsert);
+	else {
+		Node<T>* curr = head;
+		while(curr->next && curr->next->data != existingItem) {
+			curr = curr->next;
+		}
+		if(curr) {
+			Node<T>* newNode = new Node<T>(itemToInsert);
+			newNode->next = curr->next;
+			curr->next = newNode;
+		}
+		else {
+			throw runtime_error("Data not found");
+		}
+	}
+}
+```
+
+#### Insert At
+```cpp
+void insertAt(T item, int idx)
 ```
