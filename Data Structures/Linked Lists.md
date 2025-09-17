@@ -97,3 +97,44 @@ Some of the functions of a linked list are as follows:
 - find()
 And many more
 
+---
+### Insert Function
+#### Insert at Head
+```cpp
+void insertAtHead(T item) {
+	Node<T>* newNode = new Node<T>(item);
+	newNode->next = head;
+	head = newNode;
+}
+```
+
+#### Insert at Tail
+```cpp
+void insertAtTail(T item) {
+	if(!head) insertAtHead(item);
+	else {
+		Node<T>* curr = head;
+		while(curr) curr = curr->next;
+		
+		curr = new Node<T>(item);
+	}
+}
+```
+
+#### Insert After
+```cpp
+void insertAfter(T itemToInsert, T existingItem) {
+	Node<T>* curr = head;
+	while(curr && curr->data != existingItem) {
+		curr = curr->next;
+	}
+	if(curr) {
+		Node<T>* newNode = new Node<T>(itemToInsert)
+		newNode = curr->next;
+		curr->next = newNode;
+	}
+	else {
+		throw runtime_error("Data not found");
+	}
+}
+```
