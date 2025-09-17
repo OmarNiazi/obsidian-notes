@@ -163,5 +163,29 @@ void insertBefore(T itemToInsert, T existingItem) {
 
 #### Insert At
 ```cpp
-void insertAt(T item, int idx)
+void insertAt(T item, int idx) {
+	if(idx < 0) throw runtime_error("Negative index not allowed");
+	if(idx == 0) insertAtHead(item);
+	
+	else {
+		Node<T>* curr = head;
+		int i = 0;
+		while(curr && i < idx - 1) {
+			curr = curr->next;
+			i++;
+		}
+		if(curr) {
+			Node<T>* newNode = new Node<T>(item);
+			newNode->next = curr->next;
+			curr->next = newNode;
+		}
+		else {
+			throw runtime_error("Index not found");
+		}
+	}
+}
+```
+
+#### Insert List while keeping Order (Merge Sort)
+```cpp
 ```
