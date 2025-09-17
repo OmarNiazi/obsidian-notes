@@ -197,12 +197,12 @@ LinkedList<T>* mergeSort(const LinkedList<T>& list1, const LinkedList<T>& list2)
 		if(curr1 && curr2) {
 			if(curr1->data <= curr2->data) {
 				newList.insertAtTail(curr1->data);
+				curr1 = curr1->next;
 			}
 			else {
 				newList.insertAtTail(curr2->data);
+				curr2 = curr2->next;
 			}
-			curr1 = curr1->next;
-			curr2 = curr2->next;
 		}
 		
 		if(!curr1) {
@@ -220,4 +220,44 @@ LinkedList<T>* mergeSort(const LinkedList<T>& list1, const LinkedList<T>& list2)
 ```
 
 ---
-#### Reverse
+### Reverse
+```cpp
+void reverse() {
+	Node<T>* next = nullptr;
+	Node<T>* curr = head;
+	Node<T>* prev = nullptr;
+	
+	while(curr) {
+		next = curr->next;
+		curr->next = prev;
+		prev = curr;
+		curr = next;
+	}
+	
+	head = prev;
+}
+```
+
+---
+### Find
+```cpp
+Node<T>* find(T item) {
+	Node<T>* curr = head;
+	while(curr) {
+		if(curr->data == item) return curr;
+		curr = curr->data;
+	}
+	return nullptr;
+}
+```
+
+---
+### Remove Functions
+#### Remove from Head
+```cpp
+void removeFromHead() {
+	if(!head) throw runtime_error("")
+	Node<T>* nodeToDel = head;
+	head = head->next;
+}
+```
