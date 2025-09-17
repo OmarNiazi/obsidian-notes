@@ -188,7 +188,7 @@ void insertAt(T item, int idx) {
 
 #### Insert List while keeping Order (Merge Sort)
 ```cpp
-LinkedList<T> mergeSort(const LinkedList<T> list1, const LinkedList<T> list2) {
+LinkedList<T>* mergeSort(const LinkedList<T>& list1, const LinkedList<T>& list2) {
 	LinkedList<T>* newList = new LinkedList<T>;
 	Node<T>* curr1 = list1.getHead();
 	Node<T>* curr2 = list2.getHead();
@@ -201,10 +201,23 @@ LinkedList<T> mergeSort(const LinkedList<T> list1, const LinkedList<T> list2) {
 			else {
 				newList.insertAtTail(curr2->data);
 			}
+			curr1 = curr1->next;
+			curr2 = curr2->next;
 		}
 		
-		if(!curr1) newList.insertAtTail(curr2->data);
-		else if(!curr2) newList.insertAtTail(curr1->data);
+		if(!curr1) {
+			newList.insertAtTail(curr2->data);
+			curr2->next;
+		}
+		else if(!curr2) {
+			newList.insertAtTail(curr1->data);
+			curr1->next;
+		}
 	}
+	
+	return newList;
 }
 ```
+
+---
+#### Reverse
