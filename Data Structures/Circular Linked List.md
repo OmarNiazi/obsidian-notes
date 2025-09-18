@@ -14,5 +14,22 @@ struct Node{
 
 ### List
 ```cpp
-twmp
+template<typename T>
+class CircularList{
+	Node* head;
+public:
+	CircularList(): head(nullptr) {}
+};
+```
+### Add at Head
+```cpp
+void add_at_head(const T& value){
+	Node* temp = value;
+	if(!head){
+		head = temp;
+	}
+	else{
+		
+	}
+}
 ```
