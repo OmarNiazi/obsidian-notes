@@ -267,3 +267,5 @@ void removeFromHead() {
 #### Remove from Tail
 ```
 ```
+
+# Circular Linked Lists
