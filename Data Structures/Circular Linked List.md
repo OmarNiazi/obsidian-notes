@@ -21,15 +21,19 @@ public:
 	CircularList(): head(nullptr) {}
 };
 ```
-### Add at Head
+### Push back
 ```cpp
-void add_at_head(const T& value){
-	Node* temp = value;
-	if(!head){
-		head = temp;
-	}
-	else{
-		
+void push_back(const T& value) {
+	Node<T>* newNode = new Node<T>(value);
+	if (!head) {
+		head = newNode;
+	} else {
+		Node<T>* tail = head;
+		while (tail->next != head) {
+			tail = tail->next;
+		}
+		tail->next = newNode;
+		newNode->next = head;
 	}
 }
 ```
