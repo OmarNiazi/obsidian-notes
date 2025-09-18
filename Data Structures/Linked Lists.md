@@ -188,7 +188,7 @@ void insertAt(T item, int idx) {
 
 #### Insert List while keeping Order (Merge Sort)
 ```cpp
-LinkedList<T>* mergeSort(const LinkedList<T>& list1, const LinkedList<T>& list2) {
+LinkedList<T>* mergeWhileSorted(const LinkedList<T>& list1, const LinkedList<T>& list2) {
 	LinkedList<T>* newList = new LinkedList<T>;
 	Node<T>* curr1 = list1.getHead();
 	Node<T>* curr2 = list2.getHead();
