@@ -97,3 +97,175 @@ Some of the functions of a linked list are as follows:
 - find()
 And many more
 
+---
+### Insert Functions
+#### Insert at Head
+```cpp
+void insertAtHead(T item) {
+	Node<T>* newNode = new Node<T>(item);
+	newNode->next = head;
+	head = newNode;
+}
+```
+
+#### Insert at Tail
+```cpp
+void insertAtTail(T item) {
+	if(!head) insertAtHead(item);
+	else {
+		Node<T>* curr = head;
+		while(curr->next) curr = curr->next;
+		
+		curr->next = new Node<T>(item);
+	}
+}
+```
+
+#### Insert After
+```cpp
+void insertAfter(T itemToInsert, T existingItem) {
+	Node<T>* curr = head;
+	while(curr && curr->data != existingItem) {
+		curr = curr->next;
+	}
+	if(curr) {
+		Node<T>* newNode = new Node<T>(itemToInsert);
+		newNode->next = curr->next;
+		curr->next = newNode;
+	}
+	else {
+		throw runtime_error("Data not found");
+	}
+}
+```
+
+#### Insert Before
+```cpp
+void insertBefore(T itemToInsert, T existingItem) {
+	if(!head) throw runtime_error("List is Empty");
+	if(head->data == existingItem) insertAtHead(itemToInsert);
+	else {
+		Node<T>* curr = head;
+		while(curr->next && curr->next->data != existingItem) {
+			curr = curr->next;
+		}
+		if(curr) {
+			Node<T>* newNode = new Node<T>(itemToInsert);
+			newNode->next = curr->next;
+			curr->next = newNode;
+		}
+		else {
+			throw runtime_error("Data not found");
+		}
+	}
+}
+```
+
+#### Insert At
+```cpp
+void insertAt(T item, int idx) {
+	if(idx < 0) throw runtime_error("Negative index not allowed");
+	if(idx == 0) insertAtHead(item);
+	
+	else {
+		Node<T>* curr = head;
+		int i = 0;
+		while(curr && i < idx - 1) {
+			curr = curr->next;
+			i++;
+		}
+		if(curr) {
+			Node<T>* newNode = new Node<T>(item);
+			newNode->next = curr->next;
+			curr->next = newNode;
+		}
+		else {
+			throw runtime_error("Index not found");
+		}
+	}
+}
+```
+
+#### Insert List while keeping Order (Merge Sort)
+```cpp
+LinkedList<T>* mergeWhileSorted(const LinkedList<T>& list1, const LinkedList<T>& list2) {
+	LinkedList<T>* newList = new LinkedList<T>;
+	Node<T>* curr1 = list1.getHead();
+	Node<T>* curr2 = list2.getHead();
+	
+	while(curr1 || curr2) {
+		if(curr1 && curr2) {
+			if(curr1->data <= curr2->data) {
+				newList.insertAtTail(curr1->data);
+				curr1 = curr1->next;
+			}
+			else {
+				newList.insertAtTail(curr2->data);
+				curr2 = curr2->next;
+			}
+		}
+		
+		if(!curr1) {
+			newList.insertAtTail(curr2->data);
+			curr2->next;
+		}
+		else if(!curr2) {
+			newList.insertAtTail(curr1->data);
+			curr1->next;
+		}
+	}
+	
+	return newList;
+}
+```
+
+---
+### Reverse
+```cpp
+void reverse() {
+	Node<T>* next = nullptr;
+	Node<T>* curr = head;
+	Node<T>* prev = nullptr;
+	
+	while(curr) {
+		next = curr->next;
+		curr->next = prev;
+		prev = curr;
+		curr = next;
+	}
+	
+	head = prev;
+}
+```
+
+---
+### Find
+```cpp
+Node<T>* find(T item) {
+	Node<T>* curr = head;
+	while(curr) {
+		if(curr->data == item) return curr;
+		curr = curr->data;
+	}
+	return nullptr;
+}
+```
+
+---
+### Remove Functions
+#### Remove from Head
+```cpp
+void removeFromHead() {
+	if(!head) throw runtime_error("EMPTY")
+	
+	Node<T>* nodeToDel = head;
+	head = head->next;
+	delete nodeToDel;
+}
+```
+
+#### Remove from Tail
+```
+```
+
+# Circular Linked Lists

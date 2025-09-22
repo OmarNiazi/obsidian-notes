@@ -21,8 +21,38 @@
               "icon": "lucide-file",
               "title": "6.1 Transition Graphs"
             }
+          },
+          {
+            "id": "f11fa5f6cc169081",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".trash/conflict-files-obsidian-git 3.md",
+                "bFile": ".trash/conflict-files-obsidian-git 3.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git 3"
+            }
+          },
+          {
+            "id": "b9474266348993a3",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,8 +229,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9d62d9c3f7a8d6fe",
+  "active": "500cd7c21fb7dfe0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Theory of Automata/6.1 Transition Graphs.md",
+    "Data Structures/Circular Linked List.md",
+    "Data Structures/Assignment 1 - Take Aways.md",
     "Theory of Automata/5.1 Finite Automata.md",
     "Theory of Automata/4.1 Regular Expressions.md",
     "Theory of Automata/3.1 Recursive Definitions.md",
@@ -213,12 +247,10 @@
     "Theory of Automata/3.p Examples & Problems.md",
     "Theory of Automata/(MOC) - Automata Theory.md",
     "C.O.A.L/(MOC) - C.O.A.L.md",
-    "conflict-files-obsidian-git.md",
     "Theory of Automata/Introduction To Computer Theory.pdf.md",
     "C.O.A.L",
     "Books/Introduction To Computer Theory.pdf",
     "Theory of Automata/6.2 Generalized TGs.md",
-    "Theory of Automata/6.1 Transition Graphs.md",
     "Theory of Automata/Chapter 12.md",
     "Theory of Automata/4.p Examples & Problems.md",
     "Untitled",
@@ -229,8 +261,6 @@
     "Theory of Automata/[[Introduction To Computer Theory.pdf.md",
     "Discrete Structures/6.1 Set Notations.md",
     "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
-    "Theory of Automata/2.3 Positive.md",
-    "Discrete Structures/(MOC) - Discrete Structures.md",
     "Linear Algebra",
     "Theory of Automata",
     "Books/Physics/Fundamentals of Physics, 10th Edition Solution Manual (David Halliday, Robert Resnick, Jearl Walker) (z-lib.org).pdf",
