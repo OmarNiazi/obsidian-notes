@@ -266,7 +266,41 @@ void removeFromHead() {
 ```
 
 #### Remove from Tail
-```
+```cpp
+void removeFromTail() {
+    if (!head) return;             // empty
+    if (!head->next) {             // only 1 node
+        delete head;
+        head = nullptr;
+        return;
+    }
+    Node* temp = head;
+    while (temp->next->next) {     // stop at 2nd last
+        temp = temp->next;
+    }
+    delete temp->next;             // delete last
+    temp->next = nullptr;
+}
 ```
 
-# Circular Linked Lists
+#### Remove At
+```cpp
+void removeAtIdx(int idx) {
+    if (!head || idx < 0) return;
+    if (idx == 0) {                // remove head
+        Node* temp = head;
+        head = head->next;
+        delete temp;
+        return;
+    }
+    Node* temp = head;
+    for (int i = 0; temp && i < idx-1; i++) {
+            temp = temp->next;
+    }
+    if (temp && temp->next) {      // valid index
+        Node* toDelete = temp->next;
+        temp->next = temp->next->next;
+        delete toDelete;
+    }
+}
+```
