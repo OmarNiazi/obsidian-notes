@@ -114,7 +114,8 @@ void insertAtTail(T item) {
 	if(!head) insertAtHead(item);
 	else {
 		Node<T>* curr = head;
-		while(curr->next) curr = curr->next;
+		while(curr->next) 
+			curr = curr->next;
 		
 		curr->next = new Node<T>(item);
 	}
@@ -205,7 +206,7 @@ LinkedList<T>* mergeWhileSorted(const LinkedList<T>& list1, const LinkedList<T>&
 			}
 		}
 		
-		if(!curr1) {
+		else if(!curr1) {
 			newList.insertAtTail(curr2->data);
 			curr2->next;
 		}
