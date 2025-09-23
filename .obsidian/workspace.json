@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
+                "file": "C.O.A.L/1.2 Memory Allocation and Accessing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1.3 Assignment 1 - Take Aways"
+              "title": "1.2 Memory Allocation and Accessing"
             }
           }
         ]
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C.O.A.L/1.2 Memory Allocation and Accessing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 1.2 Memory Allocation and Accessing"
             }
           },
           {
@@ -192,21 +193,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "33d01e94c1dc978b",
+  "active": "94474d1282bc7f7a",
   "lastOpenFiles": [
-    "C.O.A.L/1.4 Movsx and Movzx.md",
-    "C.O.A.L/1.2 Memory Allocation and Accessing.md",
-    "conflict-files-obsidian-git.md",
-    "C.O.A.L/1.2 Memory Allocation.md",
-    "Pasted image 20250923223300.png",
-    "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
-    "Data Structures/Trees.md",
-    "Data Structures/Linked Lists.md",
-    "Data Structures/Complexity Theory.md",
-    "Data Structures/Circular Linked List.md",
     "Data Structures/Assignment 1 - Take Aways.md",
+    "Data Structures/Circular Linked List.md",
+    "Data Structures/Complexity Theory.md",
+    "Data Structures/Linked Lists.md",
+    "Data Structures/Trees.md",
+    "Discrete Structures/(MOC) - Discrete Structures.md",
+    "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
+    "Discrete Structures/1.1.2 Implications, Converse, Inverse, Contrapositive and Biconditionals.md",
+    "Pasted image 20250923223300.png",
+    "C.O.A.L/1.2 Memory Allocation and Accessing.md",
+    "C.O.A.L/1.1 Registers.md",
+    "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
+    "C.O.A.L/1.4 Movsx and Movzx.md",
+    "C.O.A.L/1.2 Memory Allocation.md",
+    "conflict-files-obsidian-git.md",
     "Data Structures/Arrays.md",
-    "Data Structures/(MOC) - Data Structures.md",
-    "C.O.A.L/1.1 Registers.md"
+    "Data Structures/(MOC) - Data Structures.md"
   ]
 }
