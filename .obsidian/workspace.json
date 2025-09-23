@@ -380,12 +380,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "73fe4df2bdd0ee50",
+  "active": "7adb17c520de5016",
   "lastOpenFiles": [
-    "Pasted image 20250923223300.png",
-    "C.O.A.L/1.2 Memory Allocation and Accessing.md",
-    "C.O.A.L/1.4 Movsx and Movzx.md",
     "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
+    "C.O.A.L/1.2 Memory Allocation and Accessing.md",
+    "C.O.A.L/1.1 Registers.md",
+    "Pasted image 20250923223300.png",
+    "C.O.A.L/1.4 Movsx and Movzx.md",
     "C.O.A.L/(MOC) - C.O.A.L.md",
     "Data Structures/Linked Lists.md",
     "Data Structures/Circular Linked List.md",
@@ -408,7 +409,6 @@
     "Discrete Structures/(MOC) - Discrete Structures.md",
     "Data Structures/Trees.md",
     "Data Structures/Complexity Theory.md",
-    "C.O.A.L/1.1 Registers.md",
     "C.O.A.L",
     "Books/Introduction To Computer Theory.pdf",
     "Books/Discrete/Discrete_Mathematics_with_Applications_5th_Edition_Susanna.pdf",
