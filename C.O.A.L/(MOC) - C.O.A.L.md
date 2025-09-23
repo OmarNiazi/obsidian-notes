@@ -15,9 +15,10 @@ These notes don't follow the lecture slides at least in terms of structure. I'll
 
 | Index | Topics                            |
 | ----- | --------------------------------- |
-| 1     | [[1.1 Registers]]                     |
-| 2     | [[1.2 Memory Allocation]]             |
+| 1     | [[1.1 Registers]]                 |
+| 2     | [[1.2 Memory Allocation and Accessing]]         |
 | 3     | [[1.3 Assignment 1 - Take Aways]] |
+| 4     | [[1.4 Movsx and Movzx]]           |
 
 In the index above the 1 indicates the phase of the semester
 1 = up to sessional I
