@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Trees.md",
+                "file": "Data Structures/Linked Lists.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Trees"
+              "title": "Linked Lists"
             }
           }
         ],
@@ -232,6 +232,7 @@
   },
   "active": "b9474266348993a3",
   "lastOpenFiles": [
+    "Data Structures/Trees.md",
     "Data Structures/Linked Lists.md",
     "Theory of Automata/Chapter 12.md",
     "Theory of Automata/6.2 Generalized TGs.md",
@@ -261,7 +262,6 @@
     "Books/Discrete/Discrete_Mathematics_with_Applications_5th_Edition_Susanna.pdf",
     "Discrete Structures/1.1.2 Implications, Converse, Inverse, Contrapositive and Biconditionals.md",
     "Theory of Automata/-NOTATIONS.md",
-    "Theory of Automata/[[Introduction To Computer Theory.pdf.md",
     "Linear Algebra",
     "Theory of Automata",
     "Books/Physics/Fundamentals of Physics, 10th Edition Solution Manual (David Halliday, Robert Resnick, Jearl Walker) (z-lib.org).pdf",
