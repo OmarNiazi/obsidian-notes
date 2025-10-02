@@ -19,7 +19,8 @@ These notes don't follow the lecture slides at least in terms of structure. I'll
 | 2     | [[1.2 Memory Allocation and Accessing]] |
 | 3     | [[1.3 Assignment 1 - Take Aways]]       |
 | 4     | [[1.4 Movsx and Movzx]]                 |
-| 5     | [[Misc]]                                |
+| 5     | [[1.5 Misc]]                            |
+| 6     | [[1.6 Console Input and Output]]        |
 
 In the index above the 1 indicates the phase of the semester
 1 = up to sessional I
