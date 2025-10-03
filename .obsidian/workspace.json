@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "4c009d164a0d4b03",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +207,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6bc3fc0b0e802e4d",
+  "active": "4c009d164a0d4b03",
   "lastOpenFiles": [
     "C.O.A.L/1.6 Console Input and Output.md",
     "C.O.A.L/1.5 Misc.md",
