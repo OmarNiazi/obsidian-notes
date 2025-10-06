@@ -100,15 +100,54 @@ class Node {
 class Queue {
 	Node* head;
 	Node* tail;
+	int capacity;
+	int size;
 	
 public:
-	Queue() : head(nullptr), tail(nullptr) {}
+	Queue(int c = 10) : head(nullptr), tail(nullptr), capacity(c), size(0) {}
 	~Queue() {
 		Node* curr = head;
 		while(curr) {
 			Node* toDel = curr;
-			curr = curr->
+			curr = curr->next;
+			delete toDel;
 		}
+	}
+	
+	bool isFull() {
+		return size == capacity;
+	}
+	
+	bool isEmpty() {
+		return head == nullptr;
+	}
+	
+	void enqueue(int val) {
+		if(isFull()) {
+			cout<<"FULL..."<<endl;
+			return;
+		}
+		
+		if(!head) {
+			head = tail = new Node(val);
+		}
+		else {
+			Node* newNode = new Node(val);
+			tail->next = newNode;
+			tail = newNode;
+		}
+	} 
+	
+	int dequeue() {
+		if(isEmpty()) {
+			cout<<"EMPTY..."<<endl;
+			return;
+		}
+		Node* toDel = head;
+		head = head->next;
+		int val = toDel->val;
+		delete toDel;
+		return val;
 	}
 };
 ```
