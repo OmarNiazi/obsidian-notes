@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C.O.A.L/1.7 Stack.md",
+                "file": "Data Structures/1.2 Linked Lists.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1.7 Stack"
+              "title": "1.2 Linked Lists"
             }
           }
         ],
@@ -262,10 +262,10 @@
   },
   "active": "2e91b27ed9d3a24c",
   "lastOpenFiles": [
+    "C.O.A.L/1.7 Stack.md",
     "C.O.A.L/(MOC) - C.O.A.L.md",
     "C.O.A.L/1.1 Registers.md",
     "C.O.A.L/1.2 Memory Allocation and Accessing.md",
-    "C.O.A.L/1.7 Stack.md",
     "C.O.A.L/1.6 Console Input and Output.md",
     "C.O.A.L/1.5 Misc.md",
     "C.O.A.L/1.4 Movsx and Movzx.md",
