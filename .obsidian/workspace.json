@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C.O.A.L/1.2 Memory Allocation and Accessing.md",
+                "file": "Data Structures/Stack.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Memory Allocation and Accessing"
+              "title": "Stack"
             }
           }
         ]
@@ -195,9 +195,9 @@
   },
   "active": "8971991e7bfbbe07",
   "lastOpenFiles": [
+    "C.O.A.L/1.2 Memory Allocation and Accessing.md",
     "Data Structures/1.2 Linked Lists.md",
     "Data Structures/(MOC) - Data Structures.md",
-    "C.O.A.L/1.2 Memory Allocation and Accessing.md",
     "Data Structures/Stack.md",
     "Data Structures/Queue.md",
     "Data Structures/Complexity Rules and Exercises.pdf",
