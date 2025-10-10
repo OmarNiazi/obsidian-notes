@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Stack"
             }
+          },
+          {
+            "id": "09da6c3c8dedacf2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +206,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8971991e7bfbbe07",
+  "active": "09da6c3c8dedacf2",
   "lastOpenFiles": [
     "C.O.A.L/1.2 Memory Allocation and Accessing.md",
     "Data Structures/1.2 Linked Lists.md",
