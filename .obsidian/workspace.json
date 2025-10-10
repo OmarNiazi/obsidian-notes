@@ -13,29 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Stack.md",
+                "file": "Data Structures/1.3 Trees.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Stack"
-            }
-          },
-          {
-            "id": "09da6c3c8dedacf2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "1.3 Trees"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,12 +193,26 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "09da6c3c8dedacf2",
+  "active": "94474d1282bc7f7a",
   "lastOpenFiles": [
-    "C.O.A.L/1.2 Memory Allocation and Accessing.md",
     "Data Structures/1.2 Linked Lists.md",
-    "Data Structures/(MOC) - Data Structures.md",
+    "Data Structures/1.1 Arrays.md",
+    "C.O.A.L/1.7 Stack.md",
+    "C.O.A.L/1.6 Console Input and Output.md",
+    "C.O.A.L/1.5 Misc.md",
+    "C.O.A.L/1.4 Movsx and Movzx.md",
+    "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
+    "C.O.A.L/1.2 Memory Allocation and Accessing.md",
+    "C.O.A.L/1.1 Registers.md",
+    "Theory of Automata/3.p Examples & Problems.md",
+    "Theory of Automata/3.1 Recursive Definitions.md",
+    "Theory of Automata/2.p Examples & Problems.md",
+    "Theory of Automata/2.2 Kleene's and Positive Closure.md",
+    "Theory of Automata/2.1 Theory of Formal Languages.md",
+    "Theory of Automata/(MOC) - Automata Theory.md",
+    "Theory of Automata/-NOTATIONS.md",
     "Data Structures/Stack.md",
+    "Data Structures/(MOC) - Data Structures.md",
     "Data Structures/Queue.md",
     "Data Structures/Complexity Rules and Exercises.pdf",
     "Data Structures/1.7 Complexity Theory.md",
@@ -219,22 +220,8 @@
     "Data Structures/1.5 Assignment 2 - Notes and Take Aways.md",
     "Data Structures/1.4 Assignment 1 - Take Aways.md",
     "Data Structures/1.3 Trees.md",
-    "Data Structures/1.1 Arrays.md",
-    "C.O.A.L/1.7 Stack.md",
-    "C.O.A.L/1.6 Console Input and Output.md",
-    "C.O.A.L/1.5 Misc.md",
-    "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
-    "C.O.A.L/1.4 Movsx and Movzx.md",
     "C.O.A.L/Misc.md",
     "Data Structures/Assignment 1 - Take Aways.md",
-    "Data Structures/Circular Linked List.md",
-    "Data Structures/Complexity Theory.md",
-    "Data Structures/Linked Lists.md",
-    "Data Structures/Trees.md",
-    "Discrete Structures/(MOC) - Discrete Structures.md",
-    "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
-    "Discrete Structures/1.1.2 Implications, Converse, Inverse, Contrapositive and Biconditionals.md",
-    "Pasted image 20250923223300.png",
-    "C.O.A.L/1.1 Registers.md"
+    "Pasted image 20250923223300.png"
   ]
 }
