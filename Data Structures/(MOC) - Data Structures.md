@@ -6,5 +6,5 @@
 - [[1.4 Assignment 1 - Take Aways]]
 - [[1.5 Assignment 2 - Notes and Take Aways]]
 - [[1.6 Circular Linked List]]
-- [[Queue]]
-- [[Stack]]
+- [[1.8 Queue]]
+- [[1.9 Stack]]
