@@ -20,8 +20,10 @@ These notes don't follow the lecture slides at least in terms of structure. I'll
 | 3     | [[1.3 Assignment 1 - Take Aways]]       |
 | 4     | [[1.4 Movsx and Movzx]]                 |
 | 5     | [[1.5 Misc]]                            |
-| 6     | [[1.6 Console Input and Output]]        |
-| 7     | [[1.7 Stack]]                           |
+| 6     | [[2.0 Console Input and Output]]        |
+| 7     | [[2.1 Stack]]                           |
+| 8     | [[2.2 Flags]]                           |
+|       | [[2.3 Assignment 2 - Take Aways]]       |
 
 In the index above the 1 indicates the phase of the semester
 1 = up to sessional I
