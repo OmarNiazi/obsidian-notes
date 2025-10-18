@@ -1,29 +1,89 @@
 {
   "main": {
-    "id": "2282e786059d2808",
+    "id": "66989e95f410d395",
     "type": "split",
     "children": [
       {
-        "id": "3823f922b208fb71",
+        "id": "ab580925f7a73993",
         "type": "tabs",
         "children": [
           {
-            "id": "083926f2cef7081f",
+            "id": "cc25f686cbf2bf6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C.O.A.L/1.2 Memory Allocation and Accessing.md",
+                "file": "Data Structures/1.3 Trees.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Memory Allocation and Accessing"
+              "title": "1.3 Trees"
             }
           },
           {
-            "id": "d0ca24e9e3a7a5b3",
+            "id": "75896c10594575c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/1.10 BSTs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.10 BSTs"
+            }
+          },
+          {
+            "id": "0449709e8152c322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/1.10 BSTs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.10 BSTs"
+            }
+          },
+          {
+            "id": "09091c3faee72603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C.O.A.L/(MOC) - C.O.A.L.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "(MOC) - C.O.A.L"
+            }
+          },
+          {
+            "id": "6b9e0aaecc4d26fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C.O.A.L/(MOC) - C.O.A.L.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "(MOC) - C.O.A.L"
+            }
+          },
+          {
+            "id": "70b21d3fd3f4ee9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,23 +96,33 @@
               "icon": "lucide-file",
               "title": "2.2 Flags"
             }
+          },
+          {
+            "id": "bcc5e24d74eee694",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1bc7049d1d209b2f",
+    "id": "a497ae1c80c55404",
     "type": "split",
     "children": [
       {
-        "id": "8822e85fd1461fa9",
+        "id": "9c546874805d2ee3",
         "type": "tabs",
         "children": [
           {
-            "id": "7adb17c520de5016",
+            "id": "4c7fc25bef59797b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,7 +135,7 @@
             }
           },
           {
-            "id": "9865e682d2a9ebea",
+            "id": "837225171e4fd5bc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,7 +152,7 @@
             }
           },
           {
-            "id": "0cc7f2731f058fb8",
+            "id": "9c528fac58c05677",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,38 +165,57 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 300
   },
   "right": {
-    "id": "9ff74f0d31edc521",
+    "id": "a3c77c581cb96c6c",
     "type": "split",
     "children": [
       {
-        "id": "371e316ae69ebf68",
+        "id": "d35b882a708a0964",
         "type": "tabs",
         "children": [
           {
-            "id": "9ba1635c639316bc",
+            "id": "776503b9a940e000",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "4a62c81aa53ea9b8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Astronomy/Geodesic Equations.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Geodesic Equations"
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           },
           {
-            "id": "ce24617f706e980c",
+            "id": "f3a7e49527099015",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -135,41 +224,32 @@
             }
           },
           {
-            "id": "f25bd75d5550b87c",
+            "id": "d19885dbd69d56c7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Astronomy/Geodesic Equations.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Geodesic Equations"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
-            "id": "cb1936487faf405b",
+            "id": "c5a83ba0d2a7bf20",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Theory of Automata/2.1 Theory of Formal Languages.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2.1 Theory of Formal Languages"
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
-            "id": "500cd7c21fb7dfe0",
+            "id": "e8a69dcbbac52f21",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -179,32 +259,16 @@
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "b89a56e709341980",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ff19788b0a55e522",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -215,53 +279,23 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d0ca24e9e3a7a5b3",
+  "active": "bcc5e24d74eee694",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "C.O.A.L/1.2 Memory Allocation and Accessing.md",
+    "C.O.A.L/2.0 Console Input and Output.md",
+    "C.O.A.L/2.1 Stack.md",
+    "C.O.A.L/2.3 Assignment 2 - Take Aways.md",
+    "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
+    "Data Structures/1.7 Complexity Theory.md",
+    "Data Structures/1.2 Linked Lists.md",
+    "Data Structures/1.1 Arrays.md",
+    "C.O.A.L/2.2 Flags.md",
+    "Data Structures/1.10 BSTs.md",
     "Data Structures/Complexity Rules and Exercises.pdf",
+    "C.O.A.L/(MOC) - C.O.A.L.md",
+    "Data Structures/1.5 Assignment 2 - Notes and Take Aways.md",
     "Data Structures/1.9 Stack.md",
     "Data Structures/1.8 Queue.md",
-    "Data Structures/1.7 Complexity Theory.md",
-    "Data Structures/1.6 Circular Linked List.md",
-    "Data Structures/1.4 Assignment 1 - Take Aways.md",
-    "Data Structures/1.3 Trees.md",
-    "Data Structures/1.2 Linked Lists.md",
-    "Data Structures/1.10 BSTs.md",
-    "Data Structures/1.1 Arrays.md",
-    "C.O.A.L/2.3 Assignment 2 - Take Aways.md",
-    "C.O.A.L/2.2 Flags.md",
-    "C.O.A.L/2.1 Stack.md",
-    "C.O.A.L/2.0 Console Input and Output.md",
-    "C.O.A.L/1.5 Misc.md",
-    "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
-    "C.O.A.L/1.4 Movsx and Movzx.md",
-    "C.O.A.L/Misc.md",
-    "C.O.A.L/(MOC) - C.O.A.L.md",
-    "C.O.A.L/1.1 Registers.md",
-    "Pasted image 20250923223300.png",
-    "Data Structures/Linked Lists.md",
-    "Data Structures/Circular Linked List.md",
-    "obsidian-notes",
-    "Data Structures/Assignment 1 - Take Aways.md",
-    "Theory of Automata/4.1 Regular Expressions.md",
-    "Theory of Automata/3.1 Recursive Definitions.md",
-    "C.O.A.L",
-    "Books/Introduction To Computer Theory.pdf",
-    "Books/Discrete/Discrete_Mathematics_with_Applications_5th_Edition_Susanna.pdf",
-    "Linear Algebra",
-    "Theory of Automata",
-    "Books/Physics/Fundamentals of Physics, 10th Edition Solution Manual (David Halliday, Robert Resnick, Jearl Walker) (z-lib.org).pdf",
-    "Books/Physics/Fundamentals of Physics- 10th Edition by Halliday Resnick Walker.pdf",
-    "Books/Physics",
-    "Untitled.canvas",
-    "The Grounded Study/Science/Untitled Diagram.svg",
-    "Untitled Diagram 1.svg",
-    "Pasted image 20250513145111.png",
-    "Pasted image 20250513145109.png",
-    "Pasted image 20250513144915.png",
-    "Pasted image 20250513144825.png",
-    "Pasted image 20250513144907.png",
-    "Untitled 1.canvas"
+    "Data Structures/1.3 Trees.md"
   ]
 }
