@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C.O.A.L/Assignment 2 - Takeaways.md",
+                "file": "Theory of Automata/7.1 Pumping Lemma.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Assignment 2 - Takeaways"
+              "title": "7.1 Pumping Lemma"
             }
           }
         ],
@@ -232,8 +232,8 @@
   },
   "active": "5dade5265775a5f1",
   "lastOpenFiles": [
-    "C.O.A.L/Assignment 1 - Takeaways.md",
     "C.O.A.L/Assignment 2 - Takeaways.md",
+    "C.O.A.L/Assignment 1 - Takeaways.md",
     "C.O.A.L/2.2 Flags.md",
     "C.O.A.L/2.1 Stack.md",
     "C.O.A.L/2.3 Assignment 2 - Take Aways.md",
