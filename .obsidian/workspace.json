@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory of Automata/7.1 Pumping Lemma.md",
+                "file": "C.O.A.L/2.0 Console Input and Output.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "7.1 Pumping Lemma"
+              "title": "2.0 Console Input and Output"
             }
           }
         ],
@@ -230,14 +230,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5dade5265775a5f1",
+  "active": "7adb17c520de5016",
   "lastOpenFiles": [
-    "C.O.A.L/Assignment 2 - Takeaways.md",
-    "C.O.A.L/Assignment 1 - Takeaways.md",
-    "C.O.A.L/2.2 Flags.md",
     "C.O.A.L/2.1 Stack.md",
-    "C.O.A.L/2.3 Assignment 2 - Take Aways.md",
+    "C.O.A.L/2.0 Console Input and Output.md",
+    "C.O.A.L/Assignment 1 - Takeaways.md",
+    "C.O.A.L/Assignment 2 - Takeaways.md",
     "Theory of Automata/7.1 Pumping Lemma.md",
+    "C.O.A.L/2.2 Flags.md",
+    "C.O.A.L/2.3 Assignment 2 - Take Aways.md",
     "Theory of Automata/(MOC) - Automata Theory.md",
     "Theory of Automata/-NOTATIONS.md",
     "Theory of Automata/6.2 Generalized TGs.md",
@@ -254,7 +255,6 @@
     "Data Structures/1.2 Linked Lists.md",
     "Data Structures/1.10 BSTs.md",
     "Data Structures/1.1 Arrays.md",
-    "C.O.A.L/2.0 Console Input and Output.md",
     "C.O.A.L/1.5 Misc.md",
     "C.O.A.L/1.4 Movsx and Movzx.md",
     "C.O.A.L/Misc.md",
