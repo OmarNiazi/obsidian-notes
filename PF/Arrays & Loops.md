@@ -512,7 +512,6 @@ int main() {
     
     return 0;
 }
-
 ```
 
 ```cpp
@@ -555,8 +554,6 @@ int main() {
         }
     }
 }
-
-
 ```
 
 ```cpp
@@ -592,9 +589,46 @@ int main() {
         cout<<words[i]<<endl;
     }
 }
-
-
 ```
-- Palindrome
-- Zigzag
-- 
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    // spar -> pras -> sarp ->arsp
+    // A3 -> 3A
+    
+    char str1[] = "spar"; // -> aprs
+    char str2[] = "pars"; // -> aprs
+    
+    
+    
+    // int freq[256] = {0};
+    
+    // int len1 = 0;
+    // while(str1[len1] != '\0') len1++;
+    
+    // int len2 = 0;
+    // while(str2[len2] != '\0') len2++;
+    
+    // if(len1 != len2) {
+    //     cout<<"Not an anagram"<<endl;
+    //     return 0;
+    // }
+    
+    // for(int i = 0; str1[i] != '\0'; i++) {
+    //     int idx1 = str1[i];
+    //     freq[idx1]++;
+    //     int idx2 = str2[i];
+    //     freq[idx2]--;
+    // }
+    
+    // for(int i = 0; i < 256; i++) {
+    //     if(freq[i] != 0) {
+    //         cout<<"Not an anagram"<<endl;
+    //         break;
+    //     }
+    // }
+}
+```
