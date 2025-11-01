@@ -419,6 +419,101 @@ int main() {
 }
 ```
 
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    /*
+    
+    [] -> an int variable in memory i.e 4 blocks/bytes
+    [0][1][2][3][4] -> an int array of 5 elements and the number inside denotes the index
+    '&' -> returns the address of the variable in question
+    '*' -> returns the value stored at a certain address
+    
+    arr = 0x100
+    arr + 3 = 0x104 -> 0x108 -> 0x112
+    *(0x112) = 4
+    
+    0 == lastIdx - 0
+    1 == lastIdx - 1
+    2 == lastIdx - 2
+    .
+    .
+    
+    temp
+    ^
+    
+    a, b
+    a = a^b;
+    b = a^b;
+    a = a^b;
+    */
+    
+    // char str[] = "Ibtasaam";
+    // int len = 0;
+    // for(int i = 0; str[i] != '\0'; i++) {
+    //     len++;
+    // }
+    // int lastIdx = len - 1;
+    
+    // for(int i = 0; i < len/2; i++) {
+    //     str[i] ^= str[lastIdx - i];
+    //     str[lastIdx - i] ^= str[i];
+    //     str[i] ^= str[lastIdx - i];
+    // }
+    
+    // cout<<str<<endl;
+    
+    // char str[] = "MADAM";
+    // int len = 0;
+    // for(int i = 0; str[i] != '\0'; i++) {
+    //     len++;
+    // }
+    // int lastIdx = len - 1;
+    // bool isPal = true;
+    
+    // for(int i = 0; i < len/2; i++) {
+    //     if(str[i] != str[lastIdx - i]) {
+    //         isPal = false;
+    //         break;
+    //     }
+    // }
+    // if(isPal)
+    //     cout<<"Is Palindrome"<<endl;
+    // int rows = 4, cols = 2;
+    // //               0, 1, 2, 3, 4, 5, 6, 7
+    // int matrix[8] = {1, 2, 3, 4, 5, 6, 7, 8};
+    
+    // // 0: 1 2 3 4 IDX: 0 1 2 3 / cols = 0
+    // // 1: 5 6 7 8 IDX: 4 5 6 7 / cols = 1
+    
+    // //    0 1 2 3
+    // // -------------
+    // // 0: 1 2 3 4 
+    // // 1: 5 6 7 8 
+    
+    // for(int k = 0; k < rows * cols; k++) {
+    //     int i = k / cols;
+    //     int j = k % cols;
+    //     int idx = (i * cols + j);
+    //     cout<<matrix[idx]<<" ";
+    //     if(j == cols - 1) 
+    //         cout<<endl;
+    // }
+    
+    int arr[] = {2, 1, 0, -1, 7};
+    int find = -1;
+    for(int i = 0; i < 5; i++) {
+        if(arr[i] == find) {
+            cout<<"found at: "<<i<<endl;
+        }
+    }
+    
+    return 0;
+}
+
+```
 - Palindrome
 - Zigzag
 - 
