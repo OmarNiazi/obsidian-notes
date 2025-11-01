@@ -285,6 +285,18 @@ int main() {
 using namespace std;
 
 int main() {
-	int arr[] = {}
+	int arr[] = {1, 2, 3, 4, 5};
+	int n = sizeof(arr) / sizeof(arr[0]);
+	int find = 3;
+	bool found = false;
+	int idx = -1
+	for(int i = 0; i < n; i++) {
+		if(arr[i] == find) {
+			found = true;
+			idx = i;
+			break;
+		}
+	}
+	(found) ? cout<<"Found at: " << idx << endl : cout<<"Not Found..."<<endl; 
 }
 ```
