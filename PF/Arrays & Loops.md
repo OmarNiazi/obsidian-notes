@@ -358,6 +358,67 @@ int main() {
 }
 ```
 
+#### Sentence to 2D array
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    char str[] = "PF A3 is Easy";
+    int n = 4;
+    char words[4][10];
+    
+    int count = 0;
+    int j = 0;
+    for(int i = 0; str[i] != '\0'; i++) {
+        if(str[i] == ' ') {
+            words[count][j] = '\0';
+            j = 0;
+            count++;  
+        }
+        else {
+            words[count][j++] = str[i];
+        }
+    }
+    words[count][j] = '\0';
+    
+    for(int i = 0; i < 4; i++) {
+        cout<<words[i]<<endl;
+    }
+}
+
+```
+
+#### Transpose without temp matrix
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int arr[3][3] = {
+        {1, 2, 3},
+        {4, 5, 6},
+        {7, 8, 9}
+    };
+    
+    for(int i = 0; i < 3; i++) {
+        for(int j = 0; j < 3; j++) {
+            if(j <= i) continue;
+            arr[i][j] ^= arr[j][i];
+            arr[j][i] ^= arr[i][j];
+            arr[i][j] ^= arr[j][i];
+        }
+    }
+    
+    for(int i = 0; i < 3; i++) {
+        for(int j = 0; j < 3; j++) {
+            cout<<arr[i][j]<<" ";
+        }
+        cout<<endl;
+    }
+}
+```
+
 - Palindrome
 - Zigzag
 - 
