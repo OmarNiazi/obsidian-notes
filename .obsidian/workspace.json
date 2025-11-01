@@ -258,13 +258,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C.O.A.L/2.2 Flags.md",
+                "file": "PF/Arrays & Loops.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2.2 Flags"
+              "title": "Arrays & Loops"
             }
           }
         ],
@@ -441,6 +441,7 @@
   },
   "active": "a1ec1e4b66ff2d41",
   "lastOpenFiles": [
+    "C.O.A.L/2.2 Flags.md",
     "C.O.A.L/1.2 Memory Allocation and Accessing.md",
     "PF/Arrays & Loops.md",
     "conflict-files-obsidian-git.md",
@@ -449,7 +450,6 @@
     "C.O.A.L/Assignment 1 - Takeaways.md",
     "PF",
     "C.O.A.L/2.1 Stack.md",
-    "C.O.A.L/2.2 Flags.md",
     "Data Structures/1.6 Circular Linked List.md",
     "Data Structures/1.4 Assignment 1 - Take Aways.md",
     "Data Structures/1.9 Stack.md",
