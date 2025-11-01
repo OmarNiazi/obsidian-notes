@@ -257,3 +257,34 @@ Each address increases by 4 bytes (size of `int`).
 |Array name|`arr`|Decays to pointer to first element|
 |Access|`arr[i]` = `*(arr + i)`|Pointer arithmetic|
 |Row-major mapping|`i * cols + j`|2D→1D conversion|
+
+### 13. Examples questions with codes
+#### Reverse an array in place
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int arr[] = {1, 2, 3, 4, 5};
+    int n = sizeof(arr) / sizeof(arr[0]);
+
+    for (int i = 0; i < n / 2; i++) {
+        int temp = arr[i];
+        arr[i] = arr[n - 1 - i];
+        arr[n - 1 - i] = temp;
+    }
+
+    cout << "Reversed array: ";
+    for (int i = 0; i < n; i++)
+        cout << arr[i] << " ";
+}
+```
+
+#### Search
+```cpp
+using namespace std;
+
+int main() {
+	int arr[] = {}
+}
+```
