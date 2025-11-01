@@ -1,18 +1,18 @@
 
 ---
 
-# 🧠 Lecture Plan: Understanding Arrays and Their Traversal in C++
+# Lecture Plan: Understanding Arrays and Their Traversal in C++
 
 ---
 
 ## **1. Conceptual Foundation: What is an Array?**
 
-### 💡 Intuition
+### Intuition
 
 An array is like a **row of lockers**, each holding a value of the _same type_, stored **contiguously** (side by side) in memory.  
 Each locker (index) has a number — that’s how we access it.
 
-### 🧩 Key Properties
+### Key Properties
 
 - Fixed size (decided at compile time for static arrays)
     k
@@ -21,7 +21,7 @@ Each locker (index) has a number — that’s how we access it.
 - Contiguous memory (no gaps between elements)
     
 
-### 🧠 Visualization
+### Visualization
 
 ```
 int arr[5] = {10, 20, 30, 40, 50};
@@ -82,13 +82,13 @@ Now for the fun part.
 cout << arr << endl;
 ```
 
-### 💥 Output Example:
+### Output Example:
 
 ```
 0x61fdf0
 ```
 
-### 🧠 Explanation:
+### Explanation:
 
 - `arr` **decays** into a pointer to its first element (`&arr[0]`).
     
@@ -108,7 +108,7 @@ This is your first peek into **pointer semantics** — arrays are not pointers, 
 
 ## **5. Using Loops and Character Arrays**
 
-### 🧠 Concept
+### Concept
 
 Character arrays are just arrays of `char`, used to store text (strings).
 
@@ -120,7 +120,7 @@ for (int i = 0; i < 5; i++)
 cout << endl;
 ```
 
-### 📘 Special Case: Printing the Whole Array
+### Special Case: Printing the Whole Array
 
 ```cpp
 cout << word << endl;
