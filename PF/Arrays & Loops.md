@@ -257,37 +257,3 @@ Each address increases by 4 bytes (size of `int`).
 |Array name|`arr`|Decays to pointer to first element|
 |Access|`arr[i]` = `*(arr + i)`|Pointer arithmetic|
 |Row-major mapping|`i * cols + j`|2D→1D conversion|
-|Char array printing|Needs `'\0'`|Otherwise undefined|
-|Out of bounds|`arr[size]`|Undefined behavior|
-
----
-
-## **13. Extension Ideas**
-
-- Show how dynamic arrays use `new` and are accessed similarly.
-    
-- Visualize memory addresses using `&arr[i]`.
-    
-- Compare `int arr[]` vs `vector<int>` in terms of safety and flexibility.
-    
-
----
-
-## 🧭 Closing Thought
-
-Arrays are where _syntax meets hardware_.  
-They’re not just containers — they’re your first glimpse of how the CPU, memory, and compiler coordinate.  
-Once you can visualize array traversal in memory, you start thinking _like the machine_ — and that’s when real control begins.
-
----
-
-Would you like me to extend this into a **“Part 2”** lecture that covers:
-
-- dynamically allocated arrays (`new`, `delete`, and pointer math),
-    
-- jagged arrays (2D arrays with variable-length rows),
-    
-- and how they compare to STL containers like `vector`?
-    
-
-That would complete the jump from raw memory arrays → modern C++ data handling.
