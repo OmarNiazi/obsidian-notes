@@ -258,13 +258,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PF/Arrays & Loops.md",
+                "file": "C.O.A.L/2.2 Flags.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Arrays & Loops"
+              "title": "2.2 Flags"
             }
           }
         ],
@@ -441,8 +441,9 @@
   },
   "active": "a1ec1e4b66ff2d41",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "C.O.A.L/1.2 Memory Allocation and Accessing.md",
     "PF/Arrays & Loops.md",
+    "conflict-files-obsidian-git.md",
     "Theory of Automata/7.1 Pumping Lemma.md",
     "C.O.A.L/Assignment 2 - Takeaways.md",
     "C.O.A.L/Assignment 1 - Takeaways.md",
@@ -467,7 +468,6 @@
     "Theory of Automata/3.p Examples & Problems.md",
     "Theory of Automata/3.1 Recursive Definitions.md",
     "Theory of Automata/2.p Examples & Problems.md",
-    "Theory of Automata/2.2 Kleene's and Positive Closure.md",
     "Data Structures/Complexity Rules and Exercises.pdf"
   ]
 }
