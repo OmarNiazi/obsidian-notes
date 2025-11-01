@@ -16,4 +16,5 @@ Automata theory helps us understand:
 | **4. Regular Expressions**            | [[4.1 Regular Expressions]]                                                                            |
 | **5. Finite Automata**                | [[5.1 Finite Automata]]                                                                                |
 | **6. Transition Graphs (cont. of 5)** | [[6.1 Transition Graphs]], [[6.2 Generalized TGs]]                                                     |
+| **7. Pumping Lemma**                  | [[7.1 Pumping Lemma]]                                                                                  |
 | **MISC**                              | [[-NOTATIONS]]                                                                                         |

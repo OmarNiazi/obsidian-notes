@@ -17,7 +17,7 @@ These notes don't follow the lecture slides at least in terms of structure. I'll
 | ----- | --------------------------------------- |
 | 1     | [[1.1 Registers]]                       |
 | 2     | [[1.2 Memory Allocation and Accessing]] |
-| 3     | [[1.3 Assignment 1 - Take Aways]]       |
+| 3     | [[Assignment 1 - Takeaways]]       |
 | 4     | [[1.4 Movsx and Movzx]]                 |
 | 5     | [[1.5 Misc]]                            |
 | 6     | [[2.0 Console Input and Output]]        |

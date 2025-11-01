@@ -443,6 +443,9 @@
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "PF/Arrays & Loops.md",
+    "Theory of Automata/7.1 Pumping Lemma.md",
+    "C.O.A.L/Assignment 2 - Takeaways.md",
+    "C.O.A.L/Assignment 1 - Takeaways.md",
     "PF",
     "C.O.A.L/2.1 Stack.md",
     "C.O.A.L/2.2 Flags.md",
@@ -465,9 +468,6 @@
     "Theory of Automata/3.1 Recursive Definitions.md",
     "Theory of Automata/2.p Examples & Problems.md",
     "Theory of Automata/2.2 Kleene's and Positive Closure.md",
-    "Theory of Automata/2.1 Theory of Formal Languages.md",
-    "Data Structures/1.8 Queue.md",
-    "Data Structures/Complexity Rules and Exercises.pdf",
-    "Data Structures/1.7 Complexity Theory.md"
+    "Data Structures/Complexity Rules and Exercises.pdf"
   ]
 }
