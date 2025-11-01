@@ -558,6 +558,43 @@ int main() {
 
 
 ```
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    char str[] = "PF A3 is Very Easy";
+    char words[5][10]; 
+    // words[0] = "PF"
+    // words[1] = "A3"
+    // words[2] = "is"
+    // words[3] = "very"
+    // words[4] = "Easy"
+    
+    int wordCount = 0;
+    int wordIdx = 0;
+    for(int i = 0; str[i] != '\0'; i++) {
+        if(str[i] != ' ') {
+            words[wordCount][wordIdx] = str[i];
+            wordIdx++;
+        }
+        else {
+            words[wordCount][wordIdx] = '\0';
+            wordCount++;
+            wordIdx = 0;
+        }
+    }
+    
+    words[wordCount][wordIdx] = '\0';
+    
+    for(int i = 0; i < 5; i++) {
+        cout<<words[i]<<endl;
+    }
+}
+
+
+```
 - Palindrome
 - Zigzag
 - 
