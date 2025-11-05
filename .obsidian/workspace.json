@@ -271,12 +271,15 @@
             "id": "f0819b10f0b5a8a2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "C.O.A.L/coal.pdf"
+                "file": "C.O.A.L/Jumps.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "coal"
+              "icon": "lucide-file",
+              "title": "Jumps"
             }
           }
         ],
@@ -454,9 +457,9 @@
   },
   "active": "f0819b10f0b5a8a2",
   "lastOpenFiles": [
-    "C.O.A.L/Jumps.md",
     "C.O.A.L/2.2 Flags.md",
     "C.O.A.L/coal.pdf",
+    "C.O.A.L/Jumps.md",
     "C.O.A.L/Coal Buddy.md",
     "C.O.A.L/(MOC) - C.O.A.L.md",
     "Discrete Structures/Proofs.md",
@@ -481,7 +484,6 @@
     "Data Structures/1.4 Assignment 1 - Take Aways.md",
     "Data Structures/1.9 Stack.md",
     "Data Structures/(MOC) - Data Structures.md",
-    "Linear Algebra/(MOC) - Linear Algebra.md",
     "Data Structures/Complexity Rules and Exercises.pdf"
   ]
 }
