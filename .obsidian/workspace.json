@@ -273,13 +273,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C.O.A.L/Jumps.md",
+                "file": "C.O.A.L/Booth's algo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jumps"
+              "title": "Booth's algo"
             }
           }
         ],
@@ -457,8 +457,9 @@
   },
   "active": "f0819b10f0b5a8a2",
   "lastOpenFiles": [
-    "C.O.A.L/2.2 Flags.md",
     "C.O.A.L/Jumps.md",
+    "C.O.A.L/Booth's algo.md",
+    "C.O.A.L/2.2 Flags.md",
     "C.O.A.L/coal.pdf",
     "C.O.A.L/Coal Buddy.md",
     "C.O.A.L/(MOC) - C.O.A.L.md",
