@@ -271,12 +271,15 @@
             "id": "f0819b10f0b5a8a2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "C.O.A.L/coal.pdf"
+                "file": "C.O.A.L/2.2 Flags.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "coal"
+              "icon": "lucide-file",
+              "title": "2.2 Flags"
             }
           }
         ],
@@ -337,7 +340,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3c77c581cb96c6c",
@@ -435,7 +439,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -451,10 +456,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4c7fc25bef59797b",
+  "active": "f0819b10f0b5a8a2",
   "lastOpenFiles": [
-    "C.O.A.L/Coal Buddy.md",
     "C.O.A.L/coal.pdf",
+    "C.O.A.L/Coal Buddy.md",
     "C.O.A.L/(MOC) - C.O.A.L.md",
     "Discrete Structures/Proofs.md",
     "Discrete Structures/(MOC) - Discrete Structures.md",
