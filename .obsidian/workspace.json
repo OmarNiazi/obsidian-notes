@@ -271,15 +271,12 @@
             "id": "f0819b10f0b5a8a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "C.O.A.L/Coal Buddy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "C.O.A.L/coal.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Coal Buddy"
+              "icon": "lucide-file-text",
+              "title": "coal"
             }
           }
         ],
@@ -454,10 +451,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f0819b10f0b5a8a2",
+  "active": "4c7fc25bef59797b",
   "lastOpenFiles": [
-    "C.O.A.L/coal.pdf",
     "C.O.A.L/Coal Buddy.md",
+    "C.O.A.L/coal.pdf",
     "C.O.A.L/(MOC) - C.O.A.L.md",
     "Discrete Structures/Proofs.md",
     "Discrete Structures/(MOC) - Discrete Structures.md",
