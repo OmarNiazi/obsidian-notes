@@ -271,12 +271,15 @@
             "id": "f0819b10f0b5a8a2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "C.O.A.L/coal.pdf"
+                "file": "C.O.A.L/Coal Buddy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "coal"
+              "icon": "lucide-file",
+              "title": "Coal Buddy"
             }
           }
         ],
@@ -453,9 +456,10 @@
   },
   "active": "f0819b10f0b5a8a2",
   "lastOpenFiles": [
+    "C.O.A.L/coal.pdf",
+    "C.O.A.L/Coal Buddy.md",
     "C.O.A.L/(MOC) - C.O.A.L.md",
     "Discrete Structures/Proofs.md",
-    "C.O.A.L/coal.pdf",
     "Discrete Structures/(MOC) - Discrete Structures.md",
     "PF/Arrays & Loops.md",
     "C.O.A.L/2.1 Stack.md",
@@ -479,8 +483,6 @@
     "Data Structures/1.9 Stack.md",
     "Data Structures/(MOC) - Data Structures.md",
     "Linear Algebra/(MOC) - Linear Algebra.md",
-    "Theory of Automata/Introduction To Computer Theory.pdf.md",
-    "Theory of Automata/Chapter 12.md",
     "Data Structures/Complexity Rules and Exercises.pdf"
   ]
 }
