@@ -273,13 +273,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C.O.A.L/Jumps.md",
+                "file": "C.O.A.L/2.2 Flags.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jumps"
+              "title": "2.2 Flags"
             }
           }
         ],
@@ -340,7 +340,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3c77c581cb96c6c",
@@ -457,9 +458,9 @@
   },
   "active": "f0819b10f0b5a8a2",
   "lastOpenFiles": [
+    "C.O.A.L/Jumps.md",
     "C.O.A.L/2.2 Flags.md",
     "C.O.A.L/coal.pdf",
-    "C.O.A.L/Jumps.md",
     "C.O.A.L/Coal Buddy.md",
     "C.O.A.L/(MOC) - C.O.A.L.md",
     "Discrete Structures/Proofs.md",
