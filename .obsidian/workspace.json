@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory of Automata/(MOC) - Automata Theory.md",
+                "file": "Theory of Automata/8.1 RE to e-NFA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "(MOC) - Automata Theory"
+              "title": "8.1 RE to e-NFA"
             }
           }
         ]
@@ -195,9 +195,10 @@
   },
   "active": "94474d1282bc7f7a",
   "lastOpenFiles": [
-    "Theory of Automata/8.1 RE to e-NFA.md",
     "Theory of Automata/7.1 Pumping Lemma.md",
     "Theory of Automata/6.2 Generalized TGs.md",
+    "Theory of Automata/(MOC) - Automata Theory.md",
+    "Theory of Automata/8.1 RE to e-NFA.md",
     "Theory of Automata/6.1 Transition Graphs.md",
     "Theory of Automata/5.1 Finite Automata.md",
     "C.O.A.L/Jumps.md",
@@ -222,7 +223,6 @@
     "Data Structures/1.3 Trees.md",
     "Data Structures/1.1 Arrays.md",
     "Data Structures/1.2 Linked Lists.md",
-    "C.O.A.L/1.7 Stack.md",
     "Data Structures/Complexity Rules and Exercises.pdf",
     "Pasted image 20250923223300.png"
   ]
