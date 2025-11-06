@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C.O.A.L/2.2 Flags.md",
+                "file": "C.O.A.L/Jumps.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2.2 Flags"
+              "title": "Jumps"
             }
           }
         ]
@@ -195,6 +195,7 @@
   },
   "active": "94474d1282bc7f7a",
   "lastOpenFiles": [
+    "C.O.A.L/2.2 Flags.md",
     "C.O.A.L/Booth's algo.md",
     "Data Structures/Arrays & Loops.md",
     "conflict-files-obsidian-git.md",
@@ -210,7 +211,6 @@
     "C.O.A.L/Coal Buddy.md",
     "C.O.A.L/Assignment 2 - Takeaways.md",
     "C.O.A.L/Assignment 1 - Takeaways.md",
-    "C.O.A.L/2.2 Flags.md",
     "C.O.A.L/2.1 Stack.md",
     "C.O.A.L/2.0 Console Input and Output.md",
     "Data Structures/1.5 Assignment 2 - Notes and Take Aways.md",
