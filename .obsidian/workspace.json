@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Arrays & Loops.md",
+                "file": "C.O.A.L/2.2 Flags.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Arrays & Loops"
+              "title": "2.2 Flags"
             }
           }
         ]
@@ -195,8 +195,9 @@
   },
   "active": "94474d1282bc7f7a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "C.O.A.L/Booth's algo.md",
     "Data Structures/Arrays & Loops.md",
+    "conflict-files-obsidian-git.md",
     "Theory of Automata/7.1 Pumping Lemma.md",
     "PF/Arrays & Loops.md",
     "PF",
@@ -207,7 +208,6 @@
     "C.O.A.L/coal.pdf",
     "C.O.A.L/Jumps.md",
     "C.O.A.L/Coal Buddy.md",
-    "C.O.A.L/Booth's algo.md",
     "C.O.A.L/Assignment 2 - Takeaways.md",
     "C.O.A.L/Assignment 1 - Takeaways.md",
     "C.O.A.L/2.2 Flags.md",
