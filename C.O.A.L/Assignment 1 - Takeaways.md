@@ -85,3 +85,7 @@ Consider the following example:
 ```
 
 Here we observe that the assembler can detect overflow/underflow but is able to solve only the underflow. The reason for this asymmetry is that it's ambiguous because the negative out of range literal is still in the valid range when stored in memory in 2's compliment. In this case -129 is stored as 127 and that's valid as it requires 8 or less bits. But in the case of 256, that's 9 bits and assembler sees this as an error.
+
+[[1.2 Memory Allocation and Accessing]]
+[[1.4 Movsx and Movzx]]
+[[1.5 Misc]]
