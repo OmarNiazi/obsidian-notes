@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/1.3 Trees.md",
+                "file": "Data Structures/Arrays & Loops.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1.3 Trees"
+              "title": "Arrays & Loops"
             }
           }
         ]
@@ -195,8 +195,12 @@
   },
   "active": "94474d1282bc7f7a",
   "lastOpenFiles": [
-    "Data Structures/1.2 Linked Lists.md",
+    "Data Structures/1.5 Assignment 2 - Notes and Take Aways.md",
+    "Data Structures/1.4 Assignment 1 - Take Aways.md",
+    "Data Structures/1.3 Trees.md",
     "Data Structures/1.1 Arrays.md",
+    "Data Structures/Arrays & Loops.md",
+    "Data Structures/1.2 Linked Lists.md",
     "C.O.A.L/1.7 Stack.md",
     "C.O.A.L/1.6 Console Input and Output.md",
     "C.O.A.L/1.5 Misc.md",
@@ -217,11 +221,7 @@
     "Data Structures/Complexity Rules and Exercises.pdf",
     "Data Structures/1.7 Complexity Theory.md",
     "Data Structures/1.6 Circular Linked List.md",
-    "Data Structures/1.5 Assignment 2 - Notes and Take Aways.md",
-    "Data Structures/1.4 Assignment 1 - Take Aways.md",
-    "Data Structures/1.3 Trees.md",
     "C.O.A.L/Misc.md",
-    "Data Structures/Assignment 1 - Take Aways.md",
     "Pasted image 20250923223300.png"
   ]
 }
