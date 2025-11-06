@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C.O.A.L/Jumps.md",
+                "file": "Theory of Automata/(MOC) - Automata Theory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jumps"
+              "title": "(MOC) - Automata Theory"
             }
           }
         ]
@@ -196,11 +196,15 @@
   "active": "94474d1282bc7f7a",
   "lastOpenFiles": [
     "Theory of Automata/8.1 RE to e-NFA.md",
+    "Theory of Automata/7.1 Pumping Lemma.md",
+    "Theory of Automata/6.2 Generalized TGs.md",
+    "Theory of Automata/6.1 Transition Graphs.md",
+    "Theory of Automata/5.1 Finite Automata.md",
+    "C.O.A.L/Jumps.md",
     "C.O.A.L/2.2 Flags.md",
     "C.O.A.L/Booth's algo.md",
     "Data Structures/Arrays & Loops.md",
     "conflict-files-obsidian-git.md",
-    "Theory of Automata/7.1 Pumping Lemma.md",
     "PF/Arrays & Loops.md",
     "PF",
     "Discrete Structures/Proofs.md",
@@ -208,7 +212,6 @@
     "Data Structures/1.8 Queue.md",
     "Data Structures/1.10 BSTs.md",
     "C.O.A.L/coal.pdf",
-    "C.O.A.L/Jumps.md",
     "C.O.A.L/Coal Buddy.md",
     "C.O.A.L/Assignment 2 - Takeaways.md",
     "C.O.A.L/Assignment 1 - Takeaways.md",
@@ -220,9 +223,6 @@
     "Data Structures/1.1 Arrays.md",
     "Data Structures/1.2 Linked Lists.md",
     "C.O.A.L/1.7 Stack.md",
-    "C.O.A.L/1.6 Console Input and Output.md",
-    "C.O.A.L/1.5 Misc.md",
-    "C.O.A.L/1.4 Movsx and Movzx.md",
     "Data Structures/Complexity Rules and Exercises.pdf",
     "Pasted image 20250923223300.png"
   ]
