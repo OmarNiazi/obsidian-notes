@@ -1,42 +1,303 @@
 {
   "main": {
-    "id": "151dc1404ff667a9",
+    "id": "66989e95f410d395",
     "type": "split",
     "children": [
       {
-        "id": "3af366299abe555c",
+        "id": "ab580925f7a73993",
         "type": "tabs",
         "children": [
           {
-            "id": "94474d1282bc7f7a",
+            "id": "cc25f686cbf2bf6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C.O.A.L/Jumps.md",
+                "file": "Data Structures/1.3 Trees.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jumps"
+              "title": "1.3 Trees"
+            }
+          },
+          {
+            "id": "75896c10594575c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/1.10 BSTs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.10 BSTs"
+            }
+          },
+          {
+            "id": "0449709e8152c322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/1.10 BSTs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.10 BSTs"
+            }
+          },
+          {
+            "id": "09091c3faee72603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C.O.A.L/(MOC) - C.O.A.L.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "(MOC) - C.O.A.L"
+            }
+          },
+          {
+            "id": "6b9e0aaecc4d26fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C.O.A.L/(MOC) - C.O.A.L.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "(MOC) - C.O.A.L"
+            }
+          },
+          {
+            "id": "70b21d3fd3f4ee9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C.O.A.L/2.2 Flags.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2 Flags"
+            }
+          },
+          {
+            "id": "bcc5e24d74eee694",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b8a933d249bf73b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C.O.A.L/2.2 Flags.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2 Flags"
+            }
+          },
+          {
+            "id": "1db0d2380ecb8215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/1.9 Stack.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.9 Stack"
+            }
+          },
+          {
+            "id": "23af666cc69ddda3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c573c2641ca0fa65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/1.10 BSTs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.10 BSTs"
+            }
+          },
+          {
+            "id": "8ac9ae2b1fcd4d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/1.10 BSTs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.10 BSTs"
+            }
+          },
+          {
+            "id": "b32a81bdec6dab06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/(MOC) - Data Structures.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "(MOC) - Data Structures"
+            }
+          },
+          {
+            "id": "5e98c0a4ca0a2c8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/1.6 Circular Linked List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.6 Circular Linked List"
+            }
+          },
+          {
+            "id": "59a3b99b091f6e7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C.O.A.L/2.1 Stack.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1 Stack"
+            }
+          },
+          {
+            "id": "afb9ebe173033943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C.O.A.L/2.1 Stack.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1 Stack"
+            }
+          },
+          {
+            "id": "d1c2390a8a817578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PF/Arrays & Loops.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Arrays & Loops"
+            }
+          },
+          {
+            "id": "a1ec1e4b66ff2d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Structures/(MOC) - Discrete Structures.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "(MOC) - Discrete Structures"
+            }
+          },
+          {
+            "id": "f0819b10f0b5a8a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C.O.A.L/Booth's algo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Booth's algo"
             }
           }
-        ]
+        ],
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2715431360d3bdc9",
+    "id": "a497ae1c80c55404",
     "type": "split",
     "children": [
       {
-        "id": "efbe406426173a9e",
+        "id": "9c546874805d2ee3",
         "type": "tabs",
         "children": [
           {
-            "id": "8971991e7bfbbe07",
+            "id": "4c7fc25bef59797b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +310,7 @@
             }
           },
           {
-            "id": "4023632bc73c5270",
+            "id": "837225171e4fd5bc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +327,7 @@
             }
           },
           {
-            "id": "5eb2436c7f572fb3",
+            "id": "9c528fac58c05677",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,20 +343,20 @@
     "width": 300
   },
   "right": {
-    "id": "274828afd8044f55",
+    "id": "a3c77c581cb96c6c",
     "type": "split",
     "children": [
       {
-        "id": "e0f81840076f764d",
+        "id": "d35b882a708a0964",
         "type": "tabs",
         "children": [
           {
-            "id": "34a7c9c405550ccc",
+            "id": "776503b9a940e000",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C.O.A.L/1.2 Memory Allocation and Accessing.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +366,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.2 Memory Allocation and Accessing"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
-            "id": "3b44a20f7243e9c1",
+            "id": "4a62c81aa53ea9b8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures/Circular Linked List.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Circular Linked List"
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           },
           {
-            "id": "19b01c9affc078bd",
+            "id": "f3a7e49527099015",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,22 +399,22 @@
             }
           },
           {
-            "id": "3f142011924dd93a",
+            "id": "d19885dbd69d56c7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures/Circular Linked List.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Circular Linked List"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
-            "id": "f22ac0f922c027c2",
+            "id": "c5a83ba0d2a7bf20",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -163,7 +424,7 @@
             }
           },
           {
-            "id": "33d01e94c1dc978b",
+            "id": "e8a69dcbbac52f21",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -177,7 +438,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,37 +455,36 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "94474d1282bc7f7a",
+  "active": "f0819b10f0b5a8a2",
   "lastOpenFiles": [
-    "C.O.A.L/2.2 Flags.md",
-    "C.O.A.L/Booth's algo.md",
     "Data Structures/Arrays & Loops.md",
-    "conflict-files-obsidian-git.md",
-    "Theory of Automata/7.1 Pumping Lemma.md",
-    "PF/Arrays & Loops.md",
-    "PF",
-    "Discrete Structures/Proofs.md",
-    "Data Structures/1.9 Stack.md",
-    "Data Structures/1.8 Queue.md",
-    "Data Structures/1.10 BSTs.md",
-    "C.O.A.L/coal.pdf",
     "C.O.A.L/Jumps.md",
+    "C.O.A.L/Booth's algo.md",
+    "C.O.A.L/2.2 Flags.md",
+    "C.O.A.L/coal.pdf",
     "C.O.A.L/Coal Buddy.md",
+    "C.O.A.L/(MOC) - C.O.A.L.md",
+    "Discrete Structures/Proofs.md",
+    "Discrete Structures/(MOC) - Discrete Structures.md",
+    "PF/Arrays & Loops.md",
+    "C.O.A.L/2.1 Stack.md",
+    "Data Structures/1.10 BSTs.md",
+    "Data Structures/1.3 Trees.md",
     "C.O.A.L/Assignment 2 - Takeaways.md",
     "C.O.A.L/Assignment 1 - Takeaways.md",
-    "C.O.A.L/2.1 Stack.md",
-    "C.O.A.L/2.0 Console Input and Output.md",
-    "Data Structures/1.5 Assignment 2 - Notes and Take Aways.md",
-    "Data Structures/1.4 Assignment 1 - Take Aways.md",
-    "Data Structures/1.3 Trees.md",
-    "Data Structures/1.1 Arrays.md",
-    "Data Structures/1.2 Linked Lists.md",
-    "C.O.A.L/1.7 Stack.md",
-    "C.O.A.L/1.6 Console Input and Output.md",
-    "C.O.A.L/1.5 Misc.md",
     "C.O.A.L/1.4 Movsx and Movzx.md",
-    "C.O.A.L/1.3 Assignment 1 - Take Aways.md",
-    "Data Structures/Complexity Rules and Exercises.pdf",
-    "Pasted image 20250923223300.png"
+    "C.O.A.L/1.2 Memory Allocation and Accessing.md",
+    "Linear Algebra/Span of Vectors.md",
+    "Linear Algebra/1.3 Vector Equations.md",
+    "Discrete Structures/1.1.1  Propositions, Negations, Conjunctions, and Disjunctions.md",
+    "Discrete Structures/1.1.2 Implications, Converse, Inverse, Contrapositive and Biconditionals.md",
+    "Discrete Structures/6.1 Set Notations.md",
+    "conflict-files-obsidian-git.md",
+    "Theory of Automata/7.1 Pumping Lemma.md",
+    "PF",
+    "Data Structures/1.6 Circular Linked List.md",
+    "Data Structures/1.4 Assignment 1 - Take Aways.md",
+    "Data Structures/1.9 Stack.md",
+    "Data Structures/Complexity Rules and Exercises.pdf"
   ]
 }
