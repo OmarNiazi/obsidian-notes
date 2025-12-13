@@ -25,6 +25,7 @@ These notes don't follow the lecture slides at least in terms of structure. I'll
 | 8     | [[2.2 Flags]]                           |
 | 9     | [[2.3 Assignment 2 - Take Aways]]       |
 | 10    | [[coal.pdf]]                            |
+| 11    | [[2.4 Integer Arithematic]]             |
 
 In the index above the 1 indicates the phase of the semester
 1 = up to sessional I
