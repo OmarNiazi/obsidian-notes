@@ -29,6 +29,7 @@ These notes don't follow the lecture slides at least in terms of structure. I'll
 | 12    | [[2.5 Stack Frames]]                    |
 | 13    | [[3.1 Strings and Arrays]]              |
 | 14    | [[3.2 Floating Point]]                  |
+| 15    | [[3.3 Interesting shit]]                |
 
 In the index above the 1 indicates the phase of the semester
 1 = up to sessional I
