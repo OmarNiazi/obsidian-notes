@@ -51,9 +51,52 @@
               "icon": "lucide-file",
               "title": "1.2 Memory Allocation and Accessing"
             }
+          },
+          {
+            "id": "fd2d1865b099b837",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: .gitignore"
+            }
+          },
+          {
+            "id": "3a2b76619469a019",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory of Automata/7.1 Pumping Lemma.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "7.1 Pumping Lemma"
+            }
+          },
+          {
+            "id": "c7dede63cd953938",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -230,8 +273,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5dade5265775a5f1",
+  "active": "c7dede63cd953938",
   "lastOpenFiles": [
+    "PF/Arrays & Loops.md",
+    "conflict-files-obsidian-git.md",
+    "Theory of Automata/7.1 Pumping Lemma.md",
+    "Theory of Automata/Chapter 12.md",
+    "Theory of Automata/8.1 RE to e-NFA.md",
+    "C.O.A.L/1.2 Memory Allocation and Accessing.md",
+    "PF",
+    "Discrete Structures/Proofs.md",
+    "Data Structures/Arrays & Loops.md",
+    "C.O.A.L/coal.pdf",
+    "C.O.A.L/Jumps.md",
+    "C.O.A.L/Coal Buddy.md",
+    "C.O.A.L/Booth's algo.md",
     "C.O.A.L/1.4 Movsx and Movzx.md",
     "C.O.A.L/1.5 Misc.md",
     "C.O.A.L/2.2 Flags.md",
@@ -239,26 +295,15 @@
     "C.O.A.L/2.1 Stack.md",
     "C.O.A.L/Assignment 1 - Takeaways.md",
     "C.O.A.L/Assignment 2 - Takeaways.md",
-    "Theory of Automata/7.1 Pumping Lemma.md",
     "C.O.A.L/2.3 Assignment 2 - Take Aways.md",
     "Theory of Automata/(MOC) - Automata Theory.md",
     "Theory of Automata/-NOTATIONS.md",
     "Theory of Automata/6.2 Generalized TGs.md",
     "Theory of Automata/6.1 Transition Graphs.md",
-    "conflict-files-obsidian-git.md",
-    "C.O.A.L/1.2 Memory Allocation and Accessing.md",
     "Data Structures/Complexity Rules and Exercises.pdf",
     "Data Structures/1.9 Stack.md",
     "Data Structures/1.8 Queue.md",
     "Data Structures/1.7 Complexity Theory.md",
-    "Data Structures/1.6 Circular Linked List.md",
-    "Data Structures/1.4 Assignment 1 - Take Aways.md",
-    "Data Structures/1.3 Trees.md",
-    "Data Structures/1.2 Linked Lists.md",
-    "Data Structures/1.10 BSTs.md",
-    "Data Structures/1.1 Arrays.md",
-    "C.O.A.L/Misc.md",
-    "C.O.A.L/(MOC) - C.O.A.L.md",
     "Pasted image 20250923223300.png",
     "obsidian-notes",
     "C.O.A.L",
@@ -267,8 +312,6 @@
     "Linear Algebra",
     "Theory of Automata",
     "Books/Physics/Fundamentals of Physics, 10th Edition Solution Manual (David Halliday, Robert Resnick, Jearl Walker) (z-lib.org).pdf",
-    "Books/Physics/Fundamentals of Physics- 10th Edition by Halliday Resnick Walker.pdf",
-    "Books/Physics",
     "Untitled.canvas",
     "The Grounded Study/Science/Untitled Diagram.svg",
     "Untitled Diagram 1.svg",

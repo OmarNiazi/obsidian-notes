@@ -8,3 +8,4 @@
 - [[1.6 Circular Linked List]]
 - [[1.8 Queue]]
 - [[1.9 Stack]]
+- [[1.10 BSTs]]

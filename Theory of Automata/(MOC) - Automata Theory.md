@@ -17,4 +17,5 @@ Automata theory helps us understand:
 | **5. Finite Automata**                | [[5.1 Finite Automata]]                                                                                |
 | **6. Transition Graphs (cont. of 5)** | [[6.1 Transition Graphs]], [[6.2 Generalized TGs]]                                                     |
 | **7. Pumping Lemma**                  | [[7.1 Pumping Lemma]]                                                                                  |
+| **8. RE to e-NFA**                    | [[8.1 RE to e-NFA]]                                                                                    |
 | **MISC**                              | [[-NOTATIONS]]                                                                                         |
