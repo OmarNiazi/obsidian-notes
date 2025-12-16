@@ -10,3 +10,4 @@
 - [[1.9 Stack]]
 - [[1.10 BSTs]]
 - [[1.11 Complexity]]
+- [[1.12 Case Study Analysis P1]]
