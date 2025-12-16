@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C.O.A.L/Jumps.md",
+                "file": "Data Structures/1.2 Linked Lists.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jumps"
+              "title": "1.2 Linked Lists"
             }
           }
         ],
@@ -271,8 +271,9 @@
   },
   "active": "33c62b955cc1433f",
   "lastOpenFiles": [
-    "C.O.A.L/2.2 Flags.md",
+    "Data Structures/1.1 Arrays.md",
     "C.O.A.L/Jumps.md",
+    "C.O.A.L/2.2 Flags.md",
     "C.O.A.L/3.3 Interesting shit.md",
     "C.O.A.L/3.1 Strings and Arrays.md",
     "C.O.A.L/coal.pdf",
