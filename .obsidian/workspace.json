@@ -111,9 +111,21 @@
               "icon": "lucide-file",
               "title": "1.11 Complexity"
             }
+          },
+          {
+            "id": "b95bf7c2481b21cd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -284,7 +296,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "48d0ecb334519975",
+  "active": "b95bf7c2481b21cd",
   "lastOpenFiles": [
     "Data Structures/1.11 Complexity.md",
     "Data Structures/(MOC) - Data Structures.md",
