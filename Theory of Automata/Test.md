@@ -1,5 +1,6 @@
 ```mermaid
-graph TD
+%%{init: {"flowchart": {"curve": "stepAfter"}}}%%
+flowchart TD
     %% --- SHAPES ---
     %% Start/End: Round
     %% READ: Parallelogram
